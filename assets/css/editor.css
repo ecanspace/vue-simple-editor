@@ -1,0 +1,19 @@
+.editor .selected-border {
+  border: 1px dashed #409EFF;
+}
+
+.editor .selected-border .editable-container__placeholder {
+  border: none;
+}
+
+.editor .v-container {
+  margin: 20px 0;
+}
+
+.editor .v-container+.v-container {
+  margin-top: 0;
+}
+
+.editor .v-container>.v-container:last-child {
+  margin-bottom: 0;
+}

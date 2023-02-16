@@ -1,0 +1,381 @@
+[
+  {
+    "name": "scroller",
+    "props": {
+      "height": "2100",
+      "left": 16,
+      "top": 22
+    },
+    "children": [
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundImage": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/22918942.jpg",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 0,
+          "width": "1200",
+          "height": 399,
+          "coveredWidth": true
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 404,
+          "width": "1200",
+          "height": 100
+        },
+        "children": [
+          {
+            "name": "button",
+            "props": {
+              "text": "个人用户",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": "20",
+              "left": 0,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "button",
+            "props": {
+              "text": "企业用户",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": 20,
+              "left": 400,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "button",
+            "props": {
+              "text": "政府或事业单位",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": 20,
+              "left": 800,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "text",
+        "props": {
+          "text": "代驾",
+          "width": 442,
+          "fontSize": "42",
+          "fontWeight": "600",
+          "lineHeight": "42",
+          "textAlign": "center",
+          "padding": "10/20",
+          "left": 379,
+          "top": 522,
+          "align": [
+            "horizontal"
+          ],
+          "color": "#0084FF"
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 610,
+          "width": "1200",
+          "height": 453
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "属地管理，安全高效",
+              "width": 388,
+              "fontSize": "38",
+              "fontWeight": "400",
+              "lineHeight": "38",
+              "padding": "10/20",
+              "left": 107,
+              "top": 120,
+              "height": null,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "倍施特联合已合作网约车的运输企业共同开展代驾业务，由网约车司机提供代驾服务，代驾司机由网约车公司统一管理，定期培训，从司机的仪容仪表、从接单前准备到代驾中服务，还有送达客人后的注意事项，做到高标准服务，代驾全程监控，为乘客的每一次出行保驾护航。",
+              "width": 489,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 105,
+              "top": 181,
+              "align": [],
+              "textAlign": "justify"
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/19899558.png",
+              "objectFit": "contain",
+              "width": "600",
+              "height": "400",
+              "top": 0,
+              "left": 600,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 1537,
+          "width": 1200,
+          "height": 543,
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "强大系统能力，完善计价模式",
+              "width": 534,
+              "fontSize": "38",
+              "fontWeight": "400",
+              "lineHeight": "38",
+              "padding": "10/20",
+              "left": 38,
+              "top": 59,
+              "height": null,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "● 系统能力：",
+              "width": 489,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "28",
+              "padding": "0",
+              "left": 60,
+              "top": 127,
+              "align": [],
+              "textAlign": "justify"
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "● 计价能力：",
+              "width": 489,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "28",
+              "padding": "0",
+              "left": 58,
+              "top": 351,
+              "align": [],
+              "textAlign": "justify"
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "①、代驾系统支持接单、接驾、送驾能力，在电子围栏服务范围内，支持智能推单+ 抢单模式两种调度方式。产品终端展现周边司机分布图以及周边需求分布图，用户可以逐级扩大代驾司机搜寻范围。",
+              "width": "500",
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "28",
+              "padding": "0",
+              "left": 57,
+              "top": 162,
+              "align": [],
+              "textAlign": "justify"
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "②、代驾系统支持人脸识别认证，通过人脸识别技术对司机的身份信息进行确认，杜绝司机被冒名顶替。同时系统支持行车前，对车辆情况进行拍照上传。从技术保障代驾的安全运营。",
+              "width": "500",
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "28",
+              "padding": "0",
+              "left": 56,
+              "top": 252,
+              "align": [],
+              "textAlign": "justify"
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "代驾系统支持完善的计价模式，满足不同时间段产生不同代驾费用的需求。支付有线上支付、现金支付两种支付方式，行程完成后可以开具电子发票。",
+              "width": "500",
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "28",
+              "padding": "0",
+              "left": 56,
+              "top": 383,
+              "align": [],
+              "textAlign": "justify"
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/20023387.png",
+              "objectFit": "contain",
+              "width": "600",
+              "height": "400",
+              "top": 70,
+              "left": 600,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 1064,
+          "width": "1200",
+          "height": 473,
+          "transform": "lock"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "支持小程序独立部署",
+              "width": 391,
+              "fontSize": "38",
+              "fontWeight": "400",
+              "lineHeight": "38",
+              "padding": "10/20",
+              "left": 667,
+              "top": 153,
+              "align": [],
+              "height": null
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "为满足不同供应商需求，代驾平台可实现独立部署小程序，借助当地运企名牌力量，打造属于本地的代驾服务品牌，同时团子出行、OTA平台数据无缝对接，实现市域、省域、全国用户多维度覆盖。",
+              "width": 502,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 673,
+              "top": 212,
+              "align": [],
+              "textAlign": "justify"
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/20026568.png",
+              "objectFit": "contain",
+              "width": "600",
+              "height": "400",
+              "top": 35,
+              "left": 0,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      }
+    ],
+    "animation": []
+  }
+]

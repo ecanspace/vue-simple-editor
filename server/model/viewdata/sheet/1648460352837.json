@@ -1,0 +1,434 @@
+[
+  {
+    "name": "scroller",
+    "props": {
+      "height": "2700",
+      "left": 19,
+      "top": 20
+    },
+    "children": [
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundImage": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/22918942.jpg",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 0,
+          "width": 1200,
+          "height": "400",
+          "coveredWidth": true
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 404,
+          "width": "1200",
+          "height": 100
+        },
+        "children": [
+          {
+            "name": "button",
+            "props": {
+              "text": "个人用户",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": "20",
+              "left": 0,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "button",
+            "props": {
+              "text": "企业用户",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": 20,
+              "left": 400,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "button",
+            "props": {
+              "text": "政府或事业单位",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": 20,
+              "left": 800,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "text",
+        "props": {
+          "text": "市内网约车",
+          "width": 442,
+          "fontSize": "42",
+          "fontWeight": "600",
+          "lineHeight": "42",
+          "textAlign": "center",
+          "padding": "10/20",
+          "left": 379,
+          "top": 522,
+          "align": [
+            "horizontal"
+          ],
+          "color": "#0084FF"
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 610,
+          "width": "1200",
+          "height": 577
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "本地品牌，资质齐全",
+              "width": 438,
+              "fontSize": "38",
+              "fontWeight": "400",
+              "lineHeight": "38",
+              "padding": "10/20",
+              "left": 10,
+              "top": 54,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "● 倍施特合资子公司四川出门科技有限公司（简称：出门科技），全资子公司黔西南州万峰畅行约租汽车服务有限公司（简称：万峰畅行）均取得“线上服务能力”的认定结果。可在全国各地授权设立分公司开展网约车业务。本地网约车公司已取得《网络预约出租车汽车经营许可证》，营运车辆已取得《网络预约出租汽车运输证》，驾驶员已取得《网络预约出租汽车驾驶员证》。目前已在全国成立50余家分公司，已获得25个地区的《网络预约出租车经营许可证》。",
+              "width": 574,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 14,
+              "top": 111,
+              "align": [],
+              "textAlign": "justify"
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "● 出门科技和万峰畅行联合各地运输集团在本地打造网络预约出行平台，充分发挥运输公司在本地司管、车管经验的优势，快速形成品牌效应。目前已在达州、万源、册亨、安龙、凯里、兴仁、贞丰、望谟等地开展网约车业务，累计运营车辆近1000台，累计服务用户超过100万人次。所有车辆双证齐全，数据实时上传。",
+              "width": "574",
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 14,
+              "top": 343,
+              "align": [],
+              "textAlign": "justify"
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/19882952.png",
+              "objectFit": "contain",
+              "width": "600",
+              "height": "375",
+              "top": 104,
+              "left": 600,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 1642,
+          "width": 1200,
+          "height": "560",
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "强大系统能力，高效运营能力",
+              "width": 559,
+              "fontSize": "38",
+              "fontWeight": "400",
+              "lineHeight": "38",
+              "padding": "10/20",
+              "left": 25,
+              "top": 49,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "● 系统能力：系统支持抢单、预约单、拼单、接力单功能，司机可以灵活支配。既能解决乘客的用车之急，也能满足司机的多元化接单需求。",
+              "width": 496,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 50,
+              "top": 107,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "● 支付能力：市内网约车系统支持提前支付、免密支付功能，在为用户带来便捷的同时，有效保障供应商资金收入安全。",
+              "width": "496",
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 47,
+              "top": 213,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "● 地图能力：倍施特与腾讯地图达成战略合作，乘客端为用户提供更加准确安全的上下车点，司机端为司机提供高峰期呼叫热力图，有效提高司机的接单效率、成交量，提高服务能力。",
+              "width": "496",
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 48,
+              "top": 293,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "● 地图能力：倍施特与腾讯地图达成战略合作，乘客端为用户提供更加准确安全的上下车点，司机端为司机提供高峰期呼叫热力图，有效提高司机的接单效率、成交量，提高服务能力。",
+              "width": "496",
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 48,
+              "top": 401
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "objectFit": "contain",
+              "width": "598",
+              "height": "400",
+              "top": 77,
+              "left": 601,
+              "align": [],
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/19874523.png"
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 2203,
+          "width": 1200,
+          "height": 466,
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "网约车数据大屏可视化",
+              "width": 559,
+              "fontSize": "38",
+              "fontWeight": "400",
+              "lineHeight": "38",
+              "padding": "10/20",
+              "left": 633,
+              "top": 144,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "倍施特可为供应商提供可视化网约车数据大屏建设，直观清晰展示平台的车辆、财务、销售等经营数据和风险数据，有助于供应商步入数据化管理，利用数据解决实际业务问题，提升管理层次。",
+              "width": 507,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 639,
+              "top": 203,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/22907154.jpg",
+              "objectFit": "fill",
+              "width": "598",
+              "height": "400",
+              "top": 31,
+              "left": 0,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 1187,
+          "width": "1200",
+          "height": 455,
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "支持小程序独立部署，OTA分销",
+              "width": 575,
+              "fontSize": "38",
+              "fontWeight": "400",
+              "lineHeight": "38",
+              "padding": "10/20",
+              "left": 612,
+              "top": 140,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "为满足不同供应商需求，市内网约车平台可实现独立部署微信小程序，借助当地运企名牌力量，打造属于本地的网约车服务品牌，同时团子出行、OTA平台（支持携程、美团、飞猪、同程）支持数据无缝对接，实现市域、省域、全国用户多维度覆盖。",
+              "width": 524,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 619,
+              "top": 211,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/23631419.jpg",
+              "objectFit": "contain",
+              "width": "598",
+              "height": "400",
+              "top": 39,
+              "left": 0,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      }
+    ],
+    "animation": []
+  }
+]

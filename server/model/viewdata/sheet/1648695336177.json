@@ -1,0 +1,665 @@
+[
+  {
+    "name": "scroller",
+    "props": {
+      "height": "3100",
+      "left": 1,
+      "top": 80,
+      "backgroundColor": "rgba(255, 255, 255, 1)"
+    },
+    "children": [
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundImage": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/22920406.jpg",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 0,
+          "width": 1200,
+          "height": "400",
+          "coveredWidth": true
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 404,
+          "width": "1200",
+          "height": "140"
+        },
+        "children": [
+          {
+            "name": "button",
+            "props": {
+              "text": "个人用户",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": 40,
+              "left": 0,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "button",
+            "props": {
+              "text": "企业用户",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": 40,
+              "left": 400,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "button",
+            "props": {
+              "text": "政府或事业单位",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": 40,
+              "left": 800,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "text",
+        "props": {
+          "text": "客运ERP综合管控系统",
+          "width": 479,
+          "fontSize": "42",
+          "fontWeight": "600",
+          "lineHeight": "42",
+          "textAlign": "center",
+          "padding": "10/20",
+          "left": 361,
+          "top": 560,
+          "color": "#0084FF",
+          "align": [
+            "horizontal"
+          ]
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 778,
+          "width": 1200,
+          "height": 592,
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/23764107.jpg",
+              "objectFit": "fill",
+              "width": "548",
+              "height": "350",
+              "top": 132,
+              "left": 31,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "功能特点",
+              "width": 200,
+              "fontSize": "38",
+              "fontWeight": "400",
+              "lineHeight": "38",
+              "padding": "10/20",
+              "align": [],
+              "left": 601,
+              "top": 44
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "● 集成企业管理各项专业模块，信息采集充分共享\n企业管理中涉及办公自动化、财务电算化、客运站售票、门检报班和汽车修理等方面的信息集成到一个大的共享数据库，各专业管理信息实现实时共享。通过预留系统接口，将业务系统数据直接导入，不需要人工录入，极大地减少人工信息录入量，提高客运管理自劢化程度。\n● 可实现企业管理总览，信息透明可见\n将企业各管理职能进行了统一整合，各种经营管理信息在一个平台即可各显其态，完全透明，企业管理者轻点鼠标，即可统览单位经营管理全貌，掌握全况，以简省的精力实现有效的监控。\n● 可实时追踪和了解基层管理的真实状态\n所有日常监管中发生的违规通知单、视频图像截图、驾驶员跟踪处理记录等材料一律要作为附件上传，任何一条监控处理记录都必须包含完整的证据，用证据证实监管工作的真实性和有效性。通过系统监控，就能实时了解各单位生产管理的真实情况，保证生产监管各项规定落到实处。",
+              "width": 577,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "textAlign": "justify",
+              "padding": "10/20",
+              "align": [],
+              "left": 599,
+              "top": 101
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 1371,
+          "width": 1200,
+          "height": 680,
+          "transform": "both"
+        },
+        "children": [
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/23764441.jpg",
+              "objectFit": "fill",
+              "width": "548",
+              "height": "350",
+              "top": 210,
+              "left": 618,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "系统特点",
+              "width": 200,
+              "fontSize": "38",
+              "fontWeight": "400",
+              "lineHeight": "38",
+              "padding": "10/20",
+              "align": [],
+              "left": 33,
+              "top": 48
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "● 对公营班车经营情况实现快速准确的直观分析\n对公营班车的营收情况按单车、班线或者单位进行随时查询和对比分析，并可通过图表形式直观呈现。\n● 促进管理流程更好的执行\n在一些最基本的信息数据方面设置了创建和审核程序，例如工资信息，由办公室录入、财务科审核等。只有经过审核的信息才能生效和关联，这样，一方面促使相关人员及时履行各自职责，另一方面也保证了数据的准确性。\n● 促进企业管理标准化建设\n要求集团各单位在人事、车辆、运营、监控等诸方面实行统一规范，以便系统操作。比如员工岗位名称的混乱、班车运行状态和安全检查规范的不统一、动态监控和处理规范的不统一等等问题，为适应系统统一性要求，需要重新对有关事项进行清理， 按标准化、规范化要求重建，使企业管理得到新的提升。\n● 节省人力资源，降低管理费用\n导入信息化最根本的目的一是提高管理效率，二是降低管理成本。本系统运行以后，由于大量基础信息加工实现自劢化，原来 为公营车队配备的统计人员、结算人员可以取消或者大大减少。",
+              "width": 577,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "textAlign": "justify",
+              "padding": "10/20",
+              "align": [],
+              "left": 31,
+              "top": 105
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "text",
+        "props": {
+          "text": "平易客运ERP综合管控系统着眼于道路旅客运输业务信息化综合应用，融合ERP的先进管理理念，将道路客运企业班车运行、车站营收等经济信息以及有关安全管理、运务管理、机务管理、人力资源、动态监控等管理信息进行整合，建立起优化企业业务流程、统一数据中心以及实时监控服务的综合信息平台，通过现实工作信息化，实现车站营收快速结算、班车经营劢态实时了觋、管理绩效及时掌握等目的。本系统可依据各相关人员及时录入以及与其他管理系统实时关联的生产经营和管理信息，按管理需要自动生成各种统计和分析报表、图表，为企业经营决策和有效管控提供强有力的信息支持。",
+          "width": 1200,
+          "fontSize": "16",
+          "fontWeight": "400",
+          "lineHeight": "28",
+          "textIndent": "32",
+          "padding": "10/20",
+          "align": [],
+          "left": 0,
+          "top": 637
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "width": 1200,
+          "height": 983,
+          "top": 2050,
+          "left": 0,
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "功能简介",
+              "width": 199,
+              "fontSize": "38",
+              "fontWeight": "600",
+              "lineHeight": "38",
+              "padding": "10/20",
+              "align": [
+                "horizontal"
+              ],
+              "left": 501,
+              "top": 35
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "wrapper",
+            "props": {
+              "width": 399,
+              "height": 359,
+              "top": 133,
+              "left": 0,
+              "transform": "both"
+            },
+            "children": [
+              {
+                "name": "text",
+                "props": {
+                  "text": "● 人力资源：",
+                  "width": 200,
+                  "fontSize": "20",
+                  "fontWeight": "600",
+                  "lineHeight": "20",
+                  "padding": "10/20",
+                  "align": [],
+                  "left": 0,
+                  "top": 0
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "text",
+                "props": {
+                  "text": "实现集团人力资源规划、招聘、配置、培训与开发、绩效管理、薪酬福利管理、劳动关系管理。可以实时查询企业人员结构、岗位结构、劳动合同签订以及考核培训等状况，及时掌握企业各岗位人员薪酬情况以及纵向、横向对比分析。对驾驶员、乘务员里程提酬、营收提酬和油材料节约奖等可以实时自动计算。",
+                  "width": 398,
+                  "fontSize": "16",
+                  "fontWeight": "400",
+                  "lineHeight": "28",
+                  "padding": "10/20",
+                  "align": [],
+                  "left": 0,
+                  "top": 38,
+                  "textAlign": "justify"
+                },
+                "children": [],
+                "animation": []
+              }
+            ],
+            "animation": []
+          },
+          {
+            "name": "wrapper",
+            "props": {
+              "width": 399,
+              "height": 359,
+              "top": 133,
+              "left": 400,
+              "transform": "both"
+            },
+            "children": [
+              {
+                "name": "text",
+                "props": {
+                  "text": "● 机务管理：",
+                  "width": 200,
+                  "fontSize": "20",
+                  "fontWeight": "600",
+                  "lineHeight": "20",
+                  "padding": "10/20",
+                  "align": [],
+                  "left": 0,
+                  "top": 0
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "text",
+                "props": {
+                  "text": "建立车辆的详细技术档案，每天记录车辆的运行情况，从车辆的购置到车辆的报废，建立起一套详细的数据档案，行业管理人员可以从不同的角度分析每种品牌型号车辆的各种技术指标。针对车辆油材料节超需提供自动计算功能，输入实际消耗额，即可对应预设的车型、年限、季节、路况等环境自动计算车辆月度节超额，同时根据薪酬奖罚规则，自动分解到相应的驾驶员当月工资之中。",
+                  "width": 398,
+                  "fontSize": "16",
+                  "fontWeight": "400",
+                  "lineHeight": "28",
+                  "padding": "10/20",
+                  "align": [],
+                  "left": 0,
+                  "top": 37,
+                  "textAlign": "justify"
+                },
+                "children": [],
+                "animation": []
+              }
+            ],
+            "animation": []
+          },
+          {
+            "name": "wrapper",
+            "props": {
+              "width": 399,
+              "height": 359,
+              "top": 133,
+              "left": 801,
+              "transform": "both"
+            },
+            "children": [
+              {
+                "name": "text",
+                "props": {
+                  "text": "● 运务管理：",
+                  "width": 200,
+                  "fontSize": "20",
+                  "fontWeight": "600",
+                  "lineHeight": "20",
+                  "padding": "10/20",
+                  "align": [],
+                  "left": 0,
+                  "top": 0
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "text",
+                "props": {
+                  "text": "可实时查询各车站进站车辆、班 次等信息，并可对车站售检数及营收等信息进行统计和对比分析；可实时了解企业班线分类和车辆经营模式统计情况。通过车辆每日运行信息的及时导入（录入），可进行车辆行驶里程、途中营收、运送人次等运行信息的实时查询以及车辆实载率、单车经营指标的统计分析，并可通过图表形式，对公营车班线、班次营收的波动状态进行直观分析，为班次优化安排和乘务员行风监控提供直观准确的信息依据。",
+                  "width": 398,
+                  "fontSize": "16",
+                  "fontWeight": "400",
+                  "lineHeight": "28",
+                  "padding": "10/20",
+                  "align": [],
+                  "left": 0,
+                  "top": 37,
+                  "textAlign": "justify"
+                },
+                "children": [],
+                "animation": []
+              }
+            ],
+            "animation": []
+          },
+          {
+            "name": "wrapper",
+            "props": {
+              "width": 399,
+              "height": 307,
+              "top": 494,
+              "left": 0,
+              "transform": "both"
+            },
+            "children": [
+              {
+                "name": "text",
+                "props": {
+                  "text": "● 结算管理：",
+                  "width": 200,
+                  "fontSize": "20",
+                  "fontWeight": "600",
+                  "lineHeight": "20",
+                  "padding": "10/20",
+                  "align": [],
+                  "left": 0,
+                  "top": 0
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "text",
+                "props": {
+                  "text": "针对客运企业结算普遍存在繁琐、工作量大、重复劳劢等问题，开发客运结算系统，实现车站营收自动分解和车辆收入自动结算，将分解结算工作从传统手工作业转为计算机结算自动化，大大减少结算工作量，提高工作效率。通过信息的集成化管理，集团结算中心可利用全公司的结算数据对整个集团的客运情况进行统计、分析、监管等。",
+                  "width": 398,
+                  "fontSize": "16",
+                  "fontWeight": "400",
+                  "lineHeight": "28",
+                  "padding": "10/20",
+                  "align": [],
+                  "left": 0,
+                  "top": 37,
+                  "textAlign": "justify"
+                },
+                "children": [],
+                "animation": []
+              }
+            ],
+            "animation": []
+          },
+          {
+            "name": "wrapper",
+            "props": {
+              "width": 399,
+              "height": 308,
+              "top": 493,
+              "left": 400,
+              "transform": "both"
+            },
+            "children": [
+              {
+                "name": "text",
+                "props": {
+                  "text": "● 职能监管：",
+                  "width": 200,
+                  "fontSize": "20",
+                  "fontWeight": "600",
+                  "lineHeight": "20",
+                  "padding": "10/20",
+                  "align": [],
+                  "left": 0,
+                  "top": 0
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "text",
+                "props": {
+                  "text": "可实时了解和掌握各级管理人员实施管控的行为，快速了解各单位和生产人员违规状况，是督促各单位自我检查、自觉管理和自发执行的有力工具。主要包括集团机关、二级单位日常监控记录、GPS和视频监控记录等，是各部门、各单位、各级管理人员实施监督、检查和跟踪处理的信息总汇。",
+                  "width": 398,
+                  "fontSize": "16",
+                  "fontWeight": "400",
+                  "lineHeight": "28",
+                  "padding": "10/20",
+                  "align": [],
+                  "left": 0,
+                  "top": 37,
+                  "textAlign": "justify"
+                },
+                "children": [],
+                "animation": []
+              }
+            ],
+            "animation": []
+          },
+          {
+            "name": "wrapper",
+            "props": {
+              "width": 399,
+              "height": 308,
+              "top": 493,
+              "left": 801,
+              "transform": "both"
+            },
+            "children": [
+              {
+                "name": "text",
+                "props": {
+                  "text": "● 安全管理：",
+                  "width": 200,
+                  "fontSize": "20",
+                  "fontWeight": "600",
+                  "lineHeight": "20",
+                  "padding": "10/20",
+                  "align": [],
+                  "left": 0,
+                  "top": 0
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "text",
+                "props": {
+                  "text": "根据道路旅客运输企业安全管理规范，对涉及到安全相关的内容，进行日常监督管理，对各种证件的到期日期及时进行提醒，对驾驶员进行安全培训，对车辆进行安全检测，从而起到事先预防作用。",
+                  "width": 398,
+                  "fontSize": "16",
+                  "fontWeight": "400",
+                  "lineHeight": "28",
+                  "padding": "10/20",
+                  "align": [],
+                  "left": 0,
+                  "top": 36,
+                  "textAlign": "justify"
+                },
+                "children": [],
+                "animation": []
+              }
+            ],
+            "animation": []
+          },
+          {
+            "name": "wrapper",
+            "props": {
+              "width": 399,
+              "height": 180,
+              "top": 802,
+              "left": 0,
+              "transform": "both"
+            },
+            "children": [
+              {
+                "name": "text",
+                "props": {
+                  "text": "● 到期提醒：",
+                  "width": 200,
+                  "fontSize": "20",
+                  "fontWeight": "600",
+                  "lineHeight": "20",
+                  "padding": "10/20",
+                  "align": [],
+                  "left": 0,
+                  "top": 0
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "text",
+                "props": {
+                  "text": "对一些非常重要又容易遗忘的时效性业务进行及时提醒，可以具体定位到具体的人、车、班线等，显示具体的数量，极大方便了各部门的管理人员。",
+                  "width": 398,
+                  "fontSize": "16",
+                  "fontWeight": "400",
+                  "lineHeight": "28",
+                  "padding": "10/20",
+                  "align": [],
+                  "left": 0,
+                  "top": 36,
+                  "textAlign": "justify"
+                },
+                "children": [],
+                "animation": []
+              }
+            ],
+            "animation": []
+          },
+          {
+            "name": "wrapper",
+            "props": {
+              "width": 399,
+              "height": 180,
+              "top": 802,
+              "left": 400,
+              "transform": "both"
+            },
+            "children": [
+              {
+                "name": "text",
+                "props": {
+                  "text": "● 指标提醒：",
+                  "width": 200,
+                  "fontSize": "20",
+                  "fontWeight": "600",
+                  "lineHeight": "20",
+                  "padding": "10/20",
+                  "align": [],
+                  "left": 1,
+                  "top": 0
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "text",
+                "props": {
+                  "text": "通过对业务数据的分析及规则的设定，对一些经营性数据指标进行提醒。",
+                  "width": 398,
+                  "fontSize": "16",
+                  "fontWeight": "400",
+                  "lineHeight": "28",
+                  "padding": "10/20",
+                  "align": [],
+                  "left": 0,
+                  "top": 36,
+                  "textAlign": "justify"
+                },
+                "children": [],
+                "animation": []
+              }
+            ],
+            "animation": []
+          }
+        ],
+        "animation": []
+      }
+    ],
+    "animation": []
+  }
+]

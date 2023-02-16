@@ -1,0 +1,111 @@
+.zoom-point,
+.zoom-point::before {
+  position: absolute;
+}
+
+.zoom-point--nw,
+.zoom-point--ne,
+.zoom-point--se,
+.zoom-point--sw,
+.zoom-point--s::before,
+.zoom-point--e::before,
+.zoom-point--n::before,
+.zoom-point--w::before {
+  width: 6px;
+  height: 6px;
+  border-radius: 6px;
+  background-color: #fff;
+  border: 1px solid #409EFF;
+}
+
+.zoom-point--n,
+.zoom-point--s {
+  padding: 3px 0;
+}
+
+.zoom-point--e,
+.zoom-point--w {
+  padding: 0 3px;
+}
+
+.zoom-point--n {
+  top: 0;
+  right: 0;
+  left: 0;
+  margin-top: -3px;
+  cursor: n-resize;
+}
+
+.zoom-point--e {
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin-right: -3px;
+  cursor: e-resize;
+}
+
+.zoom-point--s {
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin-bottom: -3px;
+  cursor: s-resize;
+}
+
+.zoom-point--w {
+  left: 0;
+  top: 0;
+  bottom: 0;
+  margin-left: -3px;
+  cursor: w-resize;
+}
+
+.zoom-point--n::before,
+.zoom-point--s::before {
+  content: "";
+  display: inline-block;
+  top: 0;
+  left: 50%;
+  margin-left: -3px;
+}
+
+.zoom-point--e::before,
+.zoom-point--w::before {
+  content: "";
+  display: inline-block;
+  left: 0;
+  top: 50%;
+  margin-top: -3px;
+}
+
+.zoom-point--nw {
+  top: 0;
+  left: 0;
+  margin-top: -3px;
+  margin-left: -3px;
+  cursor: nw-resize;
+}
+
+.zoom-point--ne {
+  top: 0;
+  right: 0;
+  margin-top: -3px;
+  margin-right: -3px;
+  cursor: ne-resize;
+}
+
+.zoom-point--se {
+  bottom: 0;
+  right: 0;
+  margin-bottom: -3px;
+  margin-right: -3px;
+  cursor: se-resize;
+}
+
+.zoom-point--sw {
+  bottom: 0;
+  left: 0;
+  margin-bottom: -3px;
+  margin-left: -3px;
+  cursor: sw-resize;
+}

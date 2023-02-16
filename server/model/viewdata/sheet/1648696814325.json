@@ -1,0 +1,239 @@
+[
+  {
+    "name": "scroller",
+    "props": {
+      "height": "1200",
+      "left": 0,
+      "top": 68,
+      "backgroundColor": "rgba(255, 255, 255, 1)"
+    },
+    "children": [
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundImage": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/22922033.jpg",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 0,
+          "width": "1200",
+          "height": "400",
+          "coveredWidth": true
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 401,
+          "width": "1200",
+          "height": "140",
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "button",
+            "props": {
+              "text": "个人用户",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": 40,
+              "left": 0,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "button",
+            "props": {
+              "text": "企业用户",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": 40,
+              "left": 400,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "button",
+            "props": {
+              "text": "政府或事业单位",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": 40,
+              "left": 800,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "text",
+        "props": {
+          "text": "智慧客运大数据",
+          "width": 442,
+          "fontSize": "42",
+          "fontWeight": "600",
+          "lineHeight": "42",
+          "textAlign": "center",
+          "padding": "10/20",
+          "left": 379,
+          "top": 563,
+          "color": "#0084FF",
+          "align": [
+            "horizontal"
+          ]
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "width": 1200,
+          "height": 264,
+          "top": 650,
+          "left": 0,
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "标准化行业数据保障政府科学决策",
+              "width": 613,
+              "fontSize": "38",
+              "fontWeight": "400",
+              "lineHeight": "38",
+              "padding": "10/20",
+              "align": [
+                "horizontal"
+              ],
+              "left": 294,
+              "top": 18
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "倍施特道路客运大数据平台（以下简称大数据平台）为政府行业主管部门科学决策提供准确的数据保障。大数据平台通过遍布全省三级及以上客运站的“智慧客运站综合智能管理系统”，将客流数据、客运运力数据、客运站运行数据、客运驾驶员数据、客运安全管理数据集中汇总大数据平台。通过数据归集、数据分析，将数据按行业标准化（国、部标）整合，生成相关数据模型，为政府行业主管部门在客运线路审批、客运运力（车辆）资源投放、旅客流量流向把握及高峰期客流预警、应急处理预案提供精确的数据支撑。根据《中华人民共和国反恐法》的实施要求，向国家安全机关提供旅客实名制数据，为国家安全提供数据保障。",
+              "width": "1200",
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "textAlign": "justify",
+              "textIndent": "32",
+              "padding": "10/20",
+              "align": [],
+              "left": 0,
+              "top": 80
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "width": 1200,
+          "height": 227,
+          "top": 921,
+          "left": 0,
+          "transform": "both"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "大数据系统助力运企转型升级",
+              "width": 554,
+              "fontSize": "38",
+              "fontWeight": "400",
+              "lineHeight": "38",
+              "padding": "10/20",
+              "align": [
+                "horizontal"
+              ],
+              "left": 323,
+              "top": 9
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "倍施特客运大数据平台为行业企业转型升级提供系统支撑。针对传统道路客运行业中存在的管理粗放、效率低下、信息滞缓、数据混乱等问题，大数据平台通过云部署的运企大数据子系统，为客运集团和客运站提供本企业的车辆周转率数据、车辆实载率数据、单车和车队营收数据、线路营收数据，客运站运营管理数据等几百项大数据支撑。",
+              "width": "1200",
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "textAlign": "justify",
+              "textIndent": "32",
+              "padding": "10/20",
+              "align": [],
+              "left": 0,
+              "top": 81
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "text",
+        "props": {
+          "text": "★ 鉴于所有大数据仅对政府单位公开，再此不作产品展示。",
+          "width": "1200",
+          "color": "#999999",
+          "fontSize": 14,
+          "fontWeight": "400",
+          "lineHeight": 14,
+          "padding": "10/20",
+          "align": [],
+          "left": 0,
+          "top": 1158
+        },
+        "children": [],
+        "animation": []
+      }
+    ],
+    "animation": []
+  }
+]

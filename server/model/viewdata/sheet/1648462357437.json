@@ -1,0 +1,292 @@
+[
+  {
+    "name": "scroller",
+    "props": {
+      "height": "1600",
+      "left": 17,
+      "top": 22
+    },
+    "children": [
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundImage": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/22918942.jpg",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 0,
+          "width": "1200",
+          "height": 399,
+          "coveredWidth": true
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 404,
+          "width": "1200",
+          "height": 100
+        },
+        "children": [
+          {
+            "name": "button",
+            "props": {
+              "text": "个人用户",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": "20",
+              "left": 0,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "button",
+            "props": {
+              "text": "企业用户",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": 20,
+              "left": 400,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "button",
+            "props": {
+              "text": "政府或事业单位",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": 20,
+              "left": 800,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "text",
+        "props": {
+          "text": "企业通勤车",
+          "width": 442,
+          "fontSize": "42",
+          "fontWeight": "400",
+          "lineHeight": "42",
+          "textAlign": "center",
+          "padding": "10/20",
+          "left": 379,
+          "top": 522,
+          "align": [
+            "horizontal"
+          ]
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 610,
+          "width": "1200",
+          "height": 453
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "满足企业个性化定制",
+              "width": 559,
+              "fontSize": "38",
+              "fontWeight": "400",
+              "lineHeight": "38",
+              "padding": "10/20",
+              "left": 64,
+              "top": 114
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "倍施特企业通勤车提供智慧搭乘体验，可实现企业员工身份无感校验，安全快速验证搭乘，拒绝蹭车。采用AI算法，智能优化线路，按需派车，保障搭乘率，拒绝资源浪费。目前已在成都、德阳开通多条企业通勤车线路，服务数家5万余人企业，满足不同企业的定制化出行通勤需求。",
+              "width": 501,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "28",
+              "padding": "10/20",
+              "left": 66,
+              "top": 176,
+              "align": [],
+              "textAlign": "justify"
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/19900235.png",
+              "objectFit": "contain",
+              "width": "600",
+              "height": "400",
+              "top": 27,
+              "left": 600,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 1064,
+          "width": "1200",
+          "height": 473
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "支持独立部署，系统能力强大",
+              "width": 539,
+              "fontSize": "38",
+              "fontWeight": "400",
+              "lineHeight": "38",
+              "padding": "10/20",
+              "left": 625,
+              "top": 60,
+              "align": [],
+              "height": null
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "● 支持小程序独立部署：",
+              "width": 507,
+              "fontSize": "16",
+              "fontWeight": "600",
+              "lineHeight": "28",
+              "padding": "10/20",
+              "left": 631,
+              "top": 128,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "● 系统能力：",
+              "width": 507,
+              "fontSize": "16",
+              "fontWeight": "600",
+              "lineHeight": "28",
+              "padding": "10/20",
+              "left": 632,
+              "top": 292,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "根据需求智能规划站点和行车线路，最大化车辆使用效率。通勤线路支持以地图的方式展示，企业员工可掌握班车实况。",
+              "width": 507,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "28",
+              "padding": "10/20",
+              "left": 631,
+              "top": 324,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "为满足不同供应商需求，通勤车平台可实现独立部署小程序，借助当地运企名牌力量，打造属于本地的网约车服务品牌，同时团子出行、OTA平台支持数据无缝对接，实现市域、省域、全国用户多维度覆盖。",
+              "width": 507,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "28",
+              "padding": "10/20",
+              "left": 629,
+              "top": 166,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/22915530.png",
+              "objectFit": "contain",
+              "width": "600",
+              "height": "400",
+              "top": 33,
+              "left": 0,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      }
+    ],
+    "animation": []
+  }
+]

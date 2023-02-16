@@ -1,0 +1,409 @@
+[
+  {
+    "name": "scroller",
+    "props": {
+      "height": "2460",
+      "left": 0,
+      "top": 1
+    },
+    "children": [
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundImage": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/22918942.jpg",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 0,
+          "width": 1200,
+          "height": "400",
+          "coveredWidth": true
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 404,
+          "width": 1200,
+          "height": 100
+        },
+        "children": [
+          {
+            "name": "button",
+            "props": {
+              "text": "个人用户",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": "20",
+              "left": 0,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "button",
+            "props": {
+              "text": "企业用户",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": 20,
+              "left": 400,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "button",
+            "props": {
+              "text": "政府或事业单位",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": 20,
+              "left": 800,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "text",
+        "props": {
+          "text": "汽车票联网售票",
+          "width": 442,
+          "fontSize": "42",
+          "fontWeight": "600",
+          "lineHeight": "42",
+          "textAlign": "center",
+          "padding": "10/20",
+          "left": 379,
+          "top": 522,
+          "align": [
+            "horizontal"
+          ],
+          "color": "#0084FF"
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 615,
+          "width": "1200",
+          "height": "460"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "全国汽车票联网售票",
+              "width": 398,
+              "fontSize": "38",
+              "fontWeight": "400",
+              "lineHeight": "38",
+              "padding": "10/20",
+              "left": 62,
+              "top": 145,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "汽车票联网售票业务从四川出发，2018年覆盖云贵川渝西南地区，2021年已实现全国实时在线联网售票，联网车站超过3500个，累计服务人次超过10亿，累计交易额超过120亿元。",
+              "width": 509,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 64,
+              "top": 210,
+              "align": [],
+              "textAlign": "justify",
+              "height": null
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/19849470.png",
+              "objectFit": "contain",
+              "width": "600",
+              "height": "375",
+              "top": 36,
+              "left": 598,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 1531,
+          "width": 1200,
+          "height": "460",
+          "transform": "lock"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "多点上下车",
+              "width": 302,
+              "fontSize": "38",
+              "fontWeight": "400",
+              "lineHeight": "38",
+              "padding": "0",
+              "left": 88,
+              "top": 116,
+              "align": [],
+              "height": null
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "2020年9月1日，新《道路旅客运输及客运站管理规定》正式实施，允许客运班车在遵守道路交通安全等前提下沿途灵活下客，更好地满足旅客安全、便捷的出行需求。乘客选乘此类“多点上下客”客运班线，可根据自己的起始地就近选择上下车点乘车，极大减少乘客往返车站的时间，让出行更便捷。",
+              "width": 504,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 72,
+              "top": 178,
+              "align": [],
+              "textAlign": "justify"
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/19849632.jpg",
+              "objectFit": "contain",
+              "width": "600",
+              "height": "375",
+              "top": 46,
+              "left": 592,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 1992,
+          "width": "1200",
+          "height": "460",
+          "transform": "lock"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "车站售票窗口移动支付",
+              "width": 497,
+              "fontSize": "38",
+              "fontWeight": "400",
+              "lineHeight": "38",
+              "padding": "10/20",
+              "left": 634,
+              "top": 105,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "随着信息化飞速发展，移动支付成为目前主流支付方式；为进一步方便旅客购票，减少窗口排队时间；倍施特为客运车站提供集成蜻蜓、青蛙支付设备打造的专业窗口收款软件，避免乘客忘带现金的尴尬，缩短排队等候时间，让旅客购票更加省心省力。减少售票处存放大量现金、识别假钞的风险，同时减少找零等环节，提高车站窗口收款效率。",
+              "width": 502,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 634,
+              "top": 179,
+              "align": [],
+              "height": null
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/19849633.jpg",
+              "objectFit": "contain",
+              "width": "600",
+              "height": "375",
+              "top": 42,
+              "left": 0,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 1070,
+          "width": 1200,
+          "height": "460"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "多渠道购票，出行更便捷",
+              "width": 497,
+              "fontSize": "38",
+              "fontWeight": "400",
+              "lineHeight": "38",
+              "padding": "10",
+              "left": 631,
+              "top": 35,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "● 线上购票：乘客可通过团子出行APP、团子出行微信公众号、团子汽车票城际专包车、团子出行官网（www.tz12306.com）、手机网页端（wap.tz12306.com）、400电话查询汽车票，如出发时间、余票数量、车票价格等，并通过实名制进行购票。实现“买票不出门、买票不排队”。",
+              "width": "540",
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "28",
+              "padding": "0",
+              "left": 633,
+              "top": 113,
+              "align": [],
+              "textAlign": "justify"
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "● 线下购票：目前倍施特在四川、贵州、浙江、安徽等地拥有支持现金、微信、支付宝、银联的多功能一体自助售取票设备超过2000台。可实现现场购票、网上预订取票、自助查询等功能。同时支持红旗连锁人工代理网点售取票。",
+              "width": 561,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "28",
+              "padding": "0",
+              "left": 632,
+              "top": 242,
+              "textAlign": "justify",
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "● OTA分销：汽车票联网售票系统现已支持同程旅行、携程旅行、飞猪、美团等多个OTA渠道分销。",
+              "width": "560",
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "28",
+              "padding": "0",
+              "left": 630,
+              "top": 350,
+              "height": null,
+              "textAlign": "justify",
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/19845965.jpg",
+              "objectFit": "contain",
+              "width": "600",
+              "height": "375",
+              "top": 44,
+              "left": 0,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      }
+    ],
+    "animation": []
+  }
+]

@@ -1,0 +1,705 @@
+[
+  {
+    "name": "scroller",
+    "props": {
+      "height": "4340",
+      "left": 2,
+      "top": 0
+    },
+    "children": [
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundImage": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/18848464.png",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 0,
+          "width": 1200,
+          "height": "403",
+          "coveredWidth": true
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 404,
+          "width": 1200,
+          "height": 1810,
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "OTS“在线运输会员服务系统”简介",
+              "width": 624,
+              "fontSize": "36",
+              "fontWeight": "600",
+              "lineHeight": "36",
+              "padding": "10/20",
+              "left": 288,
+              "top": 29,
+              "align": [
+                "horizontal"
+              ],
+              "textAlign": "center",
+              "color": "#0084FF"
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "合作目标",
+              "width": 204,
+              "fontSize": "36",
+              "fontWeight": "600",
+              "lineHeight": "36",
+              "padding": "10/20",
+              "left": 498,
+              "top": 349,
+              "align": [
+                "horizontal"
+              ],
+              "textAlign": "center",
+              "color": "#0084FF"
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "合作方式",
+              "width": 204,
+              "fontSize": "36",
+              "fontWeight": "600",
+              "lineHeight": "36",
+              "padding": "10/20",
+              "left": 498,
+              "top": 1201,
+              "align": [
+                "horizontal"
+              ],
+              "textAlign": "center",
+              "color": "#0084FF"
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "倍施特通过与腾讯（微信支付、腾讯地图、腾讯云等）团队战略技术合作为道路运输企业打造基于“OTS会员系统”的线上平台，利用运输企业各线下业务场景（客运站、公交、出租等）导流，实现所有业务统一库存、营销、支付及评价等能力；提供运营后台，方便道路客运企业建立服务标准；输出大数据挖掘系统，方便道路客运企业建造会员生态；配合道路客运企业拉新及长效运营后期服务。实现客运企业守存量，降低不可逆竞争流失率；拓增量，实现现有客户交易笔数新增。每个单一用户一年新增一笔交易，对于一个道路客运企业来讲就是一年就是千万笔交易，3年保守估计可以新增交易额2个亿以上。",
+              "width": "940",
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 130,
+              "top": 985,
+              "align": [
+                "horizontal"
+              ],
+              "textAlign": "justify",
+              "textIndent": "32"
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/20132531.png",
+              "objectFit": "contain",
+              "width": "278",
+              "height": "280",
+              "top": 1292,
+              "left": 220,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/20132532.png",
+              "objectFit": "contain",
+              "width": "278",
+              "height": "280",
+              "top": 1304,
+              "left": 700,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "因当前多数道路运输企业/集团产业链（分子控股参股公司）均面临独立经营考核的管理现状，导致集团全业务交易支付、用户会员、营销卡券、发票种类、服务评价、数据中心等信息化系统散乱无序，没有形成整体优势竞争力。为解决道路运输企业产业互联网基础能力痛点，通过数字化运力推动集团整体业务升级转型，倍施特于2020年正式推出OTS” 在线运输会员服务系统“解决方案。OTS（Online Transportation System）主要基于互联网中台架构，通过统一支付、会员、营销、地图、电子发票、服务评价能力，实现道路客运集团各类业务线上化，贯穿集团库存体系，汇集全部客户资源，实现高频业务向低频业务倒流，低利润业务向高利润业务转化的保存量，创增量长效健康转型机制。",
+              "width": "940",
+              "color": "#444444",
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "textIndent": "32",
+              "padding": "10/20",
+              "left": 130,
+              "top": 105,
+              "textAlign": "justify",
+              "align": [
+                "horizontal"
+              ]
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/23682762.jpg",
+              "objectFit": "contain",
+              "width": "900",
+              "height": "527",
+              "top": 434,
+              "left": 150,
+              "align": [
+                "horizontal"
+              ]
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "协议合作",
+              "width": 145,
+              "fontSize": "24",
+              "fontWeight": "600",
+              "lineHeight": "1.75",
+              "padding": "10/20",
+              "left": 292,
+              "top": 1548,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "资本合作",
+              "width": 145,
+              "fontSize": "24",
+              "fontWeight": "600",
+              "lineHeight": "1.75",
+              "padding": "10/20",
+              "left": 778,
+              "top": 1552,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "新增科技投入、运力（客运、公交、出租等）投放等，双方可以控股合资合作。",
+              "width": 449,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "1.75",
+              "padding": "10/20",
+              "left": 647,
+              "top": 1627,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "双方达成共识，签署战略同盟及业务合作协议，互为区域内唯一的合作伙伴。倍施特免收客运企业系统搭建、运维及升级费用，并将与客运企业之间实现数据无缝对接，最终实现市域、省域、全国用户多维度覆盖。",
+              "width": 444,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "1.75",
+              "padding": "10/20",
+              "left": 147,
+              "top": 1626,
+              "align": [],
+              "textAlign": "justify"
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 2898,
+          "width": "1200",
+          "height": 720,
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "区域合作伙伴",
+              "width": 301,
+              "fontSize": "36",
+              "fontWeight": "600",
+              "lineHeight": "36",
+              "padding": "10/20",
+              "left": 450,
+              "top": 39,
+              "align": [
+                "horizontal"
+              ],
+              "textAlign": "center",
+              "color": "#0084FF"
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/22926286.jpg",
+              "objectFit": "contain",
+              "width": "680",
+              "height": "510",
+              "top": 146,
+              "left": 36,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "汽车票业务：",
+              "width": 203,
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "1.75",
+              "padding": "10/20",
+              "left": 724,
+              "top": 216,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "信息化业务：",
+              "width": 203,
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "1.75",
+              "padding": "10/20",
+              "left": 723,
+              "top": 332
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "网约车及定制客运业务：",
+              "width": 309,
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "1.75",
+              "padding": "10/20",
+              "left": 723,
+              "top": 447
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "覆盖四川、贵州、西藏、浙江、安徽等地多家运输集团。",
+              "width": 440,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "1.75",
+              "padding": "10/20",
+              "left": 724,
+              "top": 390,
+              "height": null,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "覆盖全国3500余家客运站。",
+              "width": 440,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "1.75",
+              "padding": "10/20",
+              "left": 723,
+              "top": 277,
+              "height": null,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "覆盖四川、贵州、云南、重庆、浙江、湖北、安徽等地。覆盖定制客运线路200余条，与多家运输集团建立合作关系。",
+              "width": 419,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "1.75",
+              "padding": "10/20",
+              "left": 724,
+              "top": 503,
+              "textAlign": "justify",
+              "height": null,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 3618,
+          "width": 1200,
+          "height": 696,
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "成功案例",
+              "width": 217,
+              "fontSize": "36",
+              "fontWeight": "600",
+              "lineHeight": "36",
+              "padding": "10/20",
+              "left": 492,
+              "top": 29,
+              "align": [
+                "horizontal"
+              ],
+              "textAlign": "center",
+              "color": "#0084FF"
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "覆盖四川、贵州、云南、重庆、浙江、湖北、安徽等地。覆盖定制客运线路200余条，与多家运输集团建立合作关系。",
+              "width": 441,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "1.75",
+              "padding": "10/20",
+              "left": 763,
+              "top": 411
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/29341605.png",
+              "objectFit": "contain",
+              "width": "1200",
+              "height": "",
+              "top": 196,
+              "left": 0,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "GDS分销",
+              "width": "194",
+              "color": "#FFFFFF",
+              "fontSize": "20",
+              "fontWeight": "600",
+              "lineHeight": "30",
+              "textAlign": "center",
+              "padding": "10/20",
+              "backgroundColor": "rgba(15, 145, 255, 1)",
+              "borderRadius": "25",
+              "align": [],
+              "left": 122,
+              "top": 120
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "平台赋能",
+              "width": "194",
+              "color": "#FFFFFF",
+              "fontSize": "20",
+              "fontWeight": "600",
+              "lineHeight": "30",
+              "textAlign": "center",
+              "padding": "10/20",
+              "backgroundColor": "rgba(15, 145, 255, 1)",
+              "borderRadius": "25",
+              "align": [
+                "horizontal"
+              ],
+              "left": 503,
+              "top": 119
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "线下应用",
+              "width": "194",
+              "color": "#FFFFFF",
+              "fontSize": "20",
+              "fontWeight": "600",
+              "lineHeight": "30",
+              "textAlign": "center",
+              "padding": "10/20",
+              "backgroundColor": "rgba(15, 145, 255, 1)",
+              "borderRadius": "25",
+              "align": [],
+              "left": 888,
+              "top": 118
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 2215,
+          "width": "1200",
+          "height": 682,
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "实现步骤",
+              "width": 217,
+              "fontSize": "36",
+              "fontWeight": "600",
+              "lineHeight": "36",
+              "padding": "10/20",
+              "left": 492,
+              "top": 29,
+              "align": [
+                "horizontal"
+              ],
+              "textAlign": "center",
+              "color": "#0084FF"
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/16802008.png",
+              "objectFit": "contain",
+              "width": "78",
+              "height": "73",
+              "top": 149,
+              "left": 202,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/16802093.png",
+              "objectFit": "contain",
+              "width": "78",
+              "height": "80",
+              "top": 318,
+              "left": "200",
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/16802559.png",
+              "objectFit": "contain",
+              "width": "78",
+              "height": "80",
+              "top": 500,
+              "left": 199,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "Customer：建立会员体系服务标准",
+              "width": 442,
+              "fontSize": "20",
+              "fontWeight": "600",
+              "lineHeight": "20",
+              "padding": "10/20",
+              "left": 337,
+              "top": 292,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "Group：提升各分子公司协同能力",
+              "width": 442,
+              "fontSize": "20",
+              "fontWeight": "600",
+              "lineHeight": "20",
+              "padding": "10/20",
+              "left": 339,
+              "top": 481,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "System：搭建系统上线业务",
+              "width": 442,
+              "fontSize": "20",
+              "fontWeight": "600",
+              "lineHeight": "20",
+              "padding": "10/20",
+              "left": 340,
+              "top": 120,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "充分结合倍施特现有完善的互联网中台及GDS系统，通过小程序每周迭代的技术优势，快速实现汽车票、网约车（快车、专车、豪华等）、定制客运（点到点，点到面，面到面）、租车、包车、代驾、出租车、企业通勤车、酒店、景区门票、驾培等产品业务上线。",
+              "width": 736,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "1.75",
+              "padding": "10/20",
+              "left": 338,
+              "top": 161,
+              "textAlign": "justify",
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "从高流量、高复购业务单品尝试去零归整团购式会员，高流量、高复购与低流量、低频次业务打包式会员，向集团整体业务会员，消费用户与权益阶梯的分层权益会员方向逐步完善。在保证基础能力不变的前提下，通过促销能力及概率核算，实现现有多业务产品收入增长；并通过高附加值业务合并，锁定服务周期，实现整体业务转型升级。",
+              "width": 728,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "1.75",
+              "padding": "10/20",
+              "left": 337,
+              "top": 332,
+              "textAlign": "justify"
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "建立信息中心或网络运营团队，按照集团各分子公司业务情况，结合现有技术能力，不断完善系统推广及业务覆盖，通过带入式培训及互联网公司绩效体系，推动各分子公司产品上线、能力上线、助力上线、增收上线、分享上线，打造互利共赢，多劳多得的协同机制。",
+              "width": 728,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "1.75",
+              "padding": "10/20",
+              "left": 339,
+              "top": 520,
+              "align": [],
+              "textAlign": "justify"
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      }
+    ],
+    "animation": []
+  }
+]

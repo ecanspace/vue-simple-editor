@@ -1,0 +1,797 @@
+[
+  {
+    "name": "scroller",
+    "props": {
+      "height": "3420",
+      "left": 1,
+      "top": 28
+    },
+    "children": [
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundImage": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/22926690.jpg",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 0,
+          "width": 1200,
+          "height": "400",
+          "coveredWidth": true,
+          "transform": "lock"
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 401,
+          "width": 1200,
+          "height": 866,
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "公司简介",
+              "width": 200,
+              "fontSize": "36",
+              "fontWeight": "600",
+              "lineHeight": "36",
+              "padding": "10/20",
+              "left": 0,
+              "top": 26,
+              "align": [],
+              "color": "#0084FF"
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/19733642.jpg",
+              "objectFit": "contain",
+              "width": "500",
+              "height": "360",
+              "top": 110,
+              "left": 0,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "倍施特科技股份有限公司（Best Technology Co.,Ltd.）股票简称“倍施特”、股票代码（873100）。倍施特是一家专注于旅客出行以“智慧交通、便捷出行”为使命的互联网科技公司。\n",
+              "width": "680",
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "1.75",
+              "padding": "10",
+              "left": 509,
+              "top": 90,
+              "align": [],
+              "textAlign": "justify",
+              "textIndent": "32"
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "公司建立以联网售票为龙头，智慧交通、新型用车服务为两翼的三条产品线，以期满足多层次旅客需求。在联网售票上，2012年9月，中标成都市道路客运联网售票系统建设运营商，同年12月“成都汽车票务网”正式上线。2014年，业务发展覆盖四川主要地市，同时“成都汽车票务网”升级为“四川汽车票务网”。2017年3月全资收购贵州大迈畅游科技有限公司。2018年“四川汽车票务网”升级为“团子出行”，由单一省域道路客运出行平台转型升级为涵盖西南三省一市为一体的区域性出行服务平台。",
+              "width": "680",
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "1.75",
+              "padding": "10",
+              "left": 510,
+              "top": 183,
+              "align": [],
+              "textAlign": "justify",
+              "textIndent": "32"
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "目前“团子出行”联网售票业务已实现全国汽车票实时在线联网售票，联网车站超过3500家，累计服务人次超过10亿，累计交易额超过120亿元。团子出行的用户可通过小程序、手机网页端、APP移动端、微信公众号等线上渠道随时随地在线查询出行路线班次信息，实现实名制购票。",
+              "width": "680",
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "1.75",
+              "padding": "10",
+              "left": 510,
+              "top": 368,
+              "textAlign": "justify",
+              "textIndent": "32",
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "在智慧交通方面，倍施特科技打造的“智客+系统”，通过云智能站务系统、运企大数据平台，将行业的产能“四化”，即数字化、智能化、可视化、实时化。在汽车场站实现客运站功能区域、业务系统、安全保障系统、视频监控、实名认证等全流程数字化。系统的对客运站管理流程再造，实现业务合并去重，提升场站整体运转效率。“智客+运企大数据平台”为运输企业集团内控管理提供数据支撑，保障企业资产、财务信息准确，实现有效管控车辆、物资、人力等，提升客运企业资源配置效率。",
+              "width": "1200",
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "1.75",
+              "padding": "10",
+              "left": 0,
+              "top": 497,
+              "textAlign": "justify",
+              "textIndent": "32",
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "倍施特科技还推出运企OTS平台，通过用户会员制体系搭建，将汽车票用户会员与客运企业其他服务体系用户会员打通，实现如大多数客运企业产业链上加油站、汽车修理、驾驶培训、酒店等客流资源共享，提升客运企业盈利水平。",
+              "width": "1200",
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "1.75",
+              "padding": "10",
+              "left": 0,
+              "top": 617,
+              "textAlign": "justify",
+              "textIndent": "32",
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "在新型用车服务方面，为客运企业提供定制客运系统，实现旅客多点上下、沿途配置车辆空座共享业务场景，满足现代乘客越来越灵活多变的乘车需求，同时有效提升车辆的实载率，提升行业盈利水平。除此之外，为了实现客运企业网约车合规划经营，倍施特科技还为道路客运行业打造了专属的网约车系统，将旅客的联程联运包含其中，通过创新运营管理手段，帮助运输企业实现数据价值最大化，形成数据应用的增值体系。",
+              "width": "1200",
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "1.75",
+              "padding": "10",
+              "left": 0,
+              "top": 689,
+              "textAlign": "justify",
+              "textIndent": "32"
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "未来倍施特还将依托公司研发、运营、整合道路客运行业资源，助力出行客运企业转型升级，提高行业运营效率，为消费者提供高效便捷的出行体验。",
+              "width": "1200",
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "1.75",
+              "padding": "10",
+              "left": 0,
+              "top": 795,
+              "align": [],
+              "textAlign": "justify",
+              "textIndent": "32"
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundImage": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/16419230.png",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 2908,
+          "width": 1200,
+          "height": 491,
+          "transform": "both",
+          "coveredWidth": true
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "width": 1200,
+          "height": 200,
+          "top": 3053,
+          "left": 0,
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "聚焦道路运输行业，持续为客户创造最大价值\n\n构建和谐智慧交通，助力公众便捷简单出行",
+              "width": 808,
+              "color": "#FFFFFF",
+              "fontSize": "38",
+              "fontWeight": "400",
+              "lineHeight": "60",
+              "textAlign": "center",
+              "padding": "10/20",
+              "align": [
+                "horizontal"
+              ],
+              "left": 196,
+              "top": 35
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "width": 1200,
+          "height": 1636,
+          "top": 1272,
+          "left": 0,
+          "coveredWidth": true,
+          "transform": "vertical",
+          "backgroundColor": "rgba(243, 247, 252, 1)"
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "width": 1423,
+          "height": 1636,
+          "top": 1272,
+          "left": -112,
+          "backgroundColor": null,
+          "transform": "vertical",
+          "coveredWidth": false
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "发展历程",
+              "width": 200,
+              "color": "#0084FF",
+              "fontSize": "36",
+              "fontWeight": "600",
+              "lineHeight": "60",
+              "padding": "10/20",
+              "align": [],
+              "left": 0,
+              "top": 9
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "wrapper",
+            "props": {
+              "width": 1200,
+              "height": 1538,
+              "top": 98,
+              "left": 0,
+              "transform": "both",
+              "backgroundColor": null
+            },
+            "children": [
+              {
+                "name": "wrapper",
+                "props": {
+                  "width": 90,
+                  "height": 1500,
+                  "top": 0,
+                  "left": 555,
+                  "backgroundImage": "http://127.0.0.1:1000/images/fzlc.jpg",
+                  "transform": "both"
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "wrapper",
+                "props": {
+                  "width": 550,
+                  "height": 207,
+                  "top": 24,
+                  "left": 0,
+                  "transform": "both"
+                },
+                "children": [
+                  {
+                    "name": "text",
+                    "props": {
+                      "text": "2010年",
+                      "width": "550",
+                      "color": "#0084FF",
+                      "fontSize": "30",
+                      "fontWeight": "600",
+                      "lineHeight": "30",
+                      "textAlign": "right",
+                      "padding": "10/20",
+                      "align": [],
+                      "left": 0,
+                      "top": 0
+                    },
+                    "children": [],
+                    "animation": []
+                  },
+                  {
+                    "name": "text",
+                    "props": {
+                      "text": "2010年11月公司成立，前身（更名前）为四川倍斯特金融设备有限公司，其诞生于2008年成立的四川倍斯特保险代理有限公司技术研发部。公司前期主要从事保险金融自助设备研发和技术服务工作，后逐渐进行道路客运联网系统软件系统及自助设备研发。",
+                      "width": "550",
+                      "fontSize": "16",
+                      "fontWeight": "400",
+                      "lineHeight": "28",
+                      "textAlign": "justify",
+                      "padding": "10/20",
+                      "align": [],
+                      "left": 0,
+                      "top": 44
+                    },
+                    "children": [],
+                    "animation": []
+                  }
+                ],
+                "animation": []
+              },
+              {
+                "name": "wrapper",
+                "props": {
+                  "width": 550,
+                  "height": 203,
+                  "top": 161,
+                  "left": 650,
+                  "transform": "both"
+                },
+                "children": [
+                  {
+                    "name": "text",
+                    "props": {
+                      "text": "2012年",
+                      "width": "550",
+                      "color": "#0084FF",
+                      "fontSize": "30",
+                      "fontWeight": "600",
+                      "lineHeight": "30",
+                      "textAlign": "left",
+                      "padding": "10/20",
+                      "align": [],
+                      "left": 0,
+                      "top": 0
+                    },
+                    "children": [],
+                    "animation": []
+                  },
+                  {
+                    "name": "text",
+                    "props": {
+                      "text": "2012年9月倍施特科技股份有限公司（原四川倍斯特金融设备有限公司）中标成都市道路客运联网售票系统建设运营商（PPP模式），随后成都市道路客运联网售票系统“成都汽车票务网”上线，上线以来得到政府部门和旅客的一致认可。",
+                      "width": "550",
+                      "fontSize": "16",
+                      "fontWeight": "400",
+                      "lineHeight": "28",
+                      "textAlign": "justify",
+                      "padding": "10/20",
+                      "align": [],
+                      "left": 0,
+                      "top": 48
+                    },
+                    "children": [],
+                    "animation": []
+                  }
+                ],
+                "animation": []
+              },
+              {
+                "name": "wrapper",
+                "props": {
+                  "width": 550,
+                  "height": 136,
+                  "top": 346,
+                  "left": 0,
+                  "transform": "both"
+                },
+                "children": [
+                  {
+                    "name": "text",
+                    "props": {
+                      "text": "2013年",
+                      "width": "550",
+                      "color": "#0084FF",
+                      "fontSize": "30",
+                      "fontWeight": "600",
+                      "lineHeight": "30",
+                      "textAlign": "right",
+                      "padding": "10/20",
+                      "align": [],
+                      "left": 0,
+                      "top": 0
+                    },
+                    "children": [],
+                    "animation": []
+                  },
+                  {
+                    "name": "text",
+                    "props": {
+                      "text": "2013年12月获合之力泓远天使轮投资。",
+                      "width": "550",
+                      "fontSize": "16",
+                      "fontWeight": "400",
+                      "lineHeight": "28",
+                      "textAlign": "right",
+                      "padding": "10/20",
+                      "align": [],
+                      "left": 0,
+                      "top": 48
+                    },
+                    "children": [],
+                    "animation": []
+                  }
+                ],
+                "animation": []
+              },
+              {
+                "name": "wrapper",
+                "props": {
+                  "width": 550,
+                  "height": 154,
+                  "top": 486,
+                  "left": 650,
+                  "transform": "both"
+                },
+                "children": [
+                  {
+                    "name": "text",
+                    "props": {
+                      "text": "2014年",
+                      "width": "550",
+                      "color": "#0084FF",
+                      "fontSize": "30",
+                      "fontWeight": "600",
+                      "lineHeight": "30",
+                      "textAlign": "left",
+                      "padding": "10/20",
+                      "align": [],
+                      "left": 0,
+                      "top": 0
+                    },
+                    "children": [],
+                    "animation": []
+                  },
+                  {
+                    "name": "text",
+                    "props": {
+                      "text": "2014年5月“成都汽车票务网”升级为“四川汽车票务网”，8月被成都市商务局评为成都市电子商务创新型企业（第一批）。",
+                      "width": "550",
+                      "fontSize": "16",
+                      "fontWeight": "400",
+                      "lineHeight": "28",
+                      "textAlign": "left",
+                      "padding": "10/20",
+                      "align": [],
+                      "left": 0,
+                      "top": 46
+                    },
+                    "children": [],
+                    "animation": []
+                  }
+                ],
+                "animation": []
+              },
+              {
+                "name": "wrapper",
+                "props": {
+                  "width": 550,
+                  "height": 156,
+                  "top": 632,
+                  "left": 0,
+                  "transform": "both"
+                },
+                "children": [
+                  {
+                    "name": "text",
+                    "props": {
+                      "text": "2015年",
+                      "width": "550",
+                      "color": "#0084FF",
+                      "fontSize": "30",
+                      "fontWeight": "600",
+                      "lineHeight": "30",
+                      "textAlign": "right",
+                      "padding": "10/20",
+                      "align": [],
+                      "left": 0,
+                      "top": 0
+                    },
+                    "children": [],
+                    "animation": []
+                  },
+                  {
+                    "name": "text",
+                    "props": {
+                      "text": "2015年1月中标四川道路客运联网售票系统建设项目，2015年4月获携程A轮融资。",
+                      "width": "550",
+                      "fontSize": "16",
+                      "fontWeight": "400",
+                      "lineHeight": "28",
+                      "textAlign": "left",
+                      "padding": "10/20",
+                      "align": [],
+                      "left": 0,
+                      "top": 44
+                    },
+                    "children": [],
+                    "animation": []
+                  }
+                ],
+                "animation": []
+              },
+              {
+                "name": "wrapper",
+                "props": {
+                  "width": 550,
+                  "height": 156,
+                  "top": 910,
+                  "left": 0,
+                  "transform": "both"
+                },
+                "children": [
+                  {
+                    "name": "text",
+                    "props": {
+                      "text": "2017年",
+                      "width": "550",
+                      "color": "#0084FF",
+                      "fontSize": "30",
+                      "fontWeight": "600",
+                      "lineHeight": "30",
+                      "textAlign": "right",
+                      "padding": "10/20",
+                      "align": [],
+                      "left": 0,
+                      "top": 0
+                    },
+                    "children": [],
+                    "animation": []
+                  },
+                  {
+                    "name": "text",
+                    "props": {
+                      "text": "2017年3月全资收购贵州大迈畅游科技有限公司，汽车票业务正式跨出四川走向全国。",
+                      "width": "550",
+                      "fontSize": "16",
+                      "fontWeight": "400",
+                      "lineHeight": "28",
+                      "textAlign": "left",
+                      "padding": "10/20",
+                      "align": [],
+                      "left": 0,
+                      "top": 42
+                    },
+                    "children": [],
+                    "animation": []
+                  }
+                ],
+                "animation": []
+              },
+              {
+                "name": "wrapper",
+                "props": {
+                  "width": 550,
+                  "height": 159,
+                  "top": 1178,
+                  "left": 0,
+                  "transform": "both"
+                },
+                "children": [
+                  {
+                    "name": "text",
+                    "props": {
+                      "text": "2019年",
+                      "width": "550",
+                      "color": "#0084FF",
+                      "fontSize": "30",
+                      "fontWeight": "600",
+                      "lineHeight": "30",
+                      "textAlign": "right",
+                      "padding": "10/20",
+                      "align": [],
+                      "left": 0,
+                      "top": 0
+                    },
+                    "children": [],
+                    "animation": []
+                  },
+                  {
+                    "name": "text",
+                    "props": {
+                      "text": "2019年3月在全国中小企业股份转让系统中心正式挂牌，股票代码（873100）。7月成功在达州开展网约车业务。",
+                      "width": "550",
+                      "fontSize": "16",
+                      "fontWeight": "400",
+                      "lineHeight": "28",
+                      "textAlign": "left",
+                      "padding": "10/20",
+                      "align": [],
+                      "left": 0,
+                      "top": 54
+                    },
+                    "children": [],
+                    "animation": []
+                  }
+                ],
+                "animation": []
+              },
+              {
+                "name": "wrapper",
+                "props": {
+                  "width": 550,
+                  "height": 148,
+                  "top": 763,
+                  "left": 650,
+                  "transform": "both"
+                },
+                "children": [
+                  {
+                    "name": "text",
+                    "props": {
+                      "text": "2016年",
+                      "width": "550",
+                      "color": "#0084FF",
+                      "fontSize": "30",
+                      "fontWeight": "600",
+                      "lineHeight": "30",
+                      "padding": "10/20",
+                      "align": [],
+                      "left": 0,
+                      "top": 0
+                    },
+                    "children": [],
+                    "animation": []
+                  },
+                  {
+                    "name": "text",
+                    "props": {
+                      "text": "获得2015年省级电子商务示范企业。汽车票业务覆盖四川全省，并开通火车票业务、景区直通车、包车等出行业务。",
+                      "width": "550",
+                      "fontSize": "16",
+                      "fontWeight": "400",
+                      "lineHeight": "28",
+                      "padding": "10/20",
+                      "align": [],
+                      "left": 0,
+                      "top": 43
+                    },
+                    "children": [],
+                    "animation": []
+                  }
+                ],
+                "animation": []
+              },
+              {
+                "name": "wrapper",
+                "props": {
+                  "width": 550,
+                  "height": 186,
+                  "top": 1039,
+                  "left": 650,
+                  "transform": "both"
+                },
+                "children": [
+                  {
+                    "name": "text",
+                    "props": {
+                      "text": "2018年",
+                      "width": "550",
+                      "color": "#0084FF",
+                      "fontSize": "30",
+                      "fontWeight": "600",
+                      "lineHeight": "30",
+                      "padding": "10/20",
+                      "align": [],
+                      "left": 0,
+                      "top": 0
+                    },
+                    "children": [],
+                    "animation": []
+                  },
+                  {
+                    "name": "text",
+                    "props": {
+                      "text": "“四川汽车票务网”升级为“团子出行”，由省域道路客运出行平台转型升级为涵盖包括西南三省一市为一体的全国出行服务平台，2018年3月获美团B轮融资，11月获新三板挂牌批准。",
+                      "width": "550",
+                      "fontSize": "16",
+                      "fontWeight": "400",
+                      "lineHeight": "28",
+                      "padding": "10/20",
+                      "align": [],
+                      "left": 0,
+                      "top": 49
+                    },
+                    "children": [],
+                    "animation": []
+                  }
+                ],
+                "animation": []
+              },
+              {
+                "name": "wrapper",
+                "props": {
+                  "width": 550,
+                  "height": 242,
+                  "top": 1295,
+                  "left": 650,
+                  "transform": "both"
+                },
+                "children": [
+                  {
+                    "name": "text",
+                    "props": {
+                      "text": "2020年",
+                      "width": "550",
+                      "color": "#0084FF",
+                      "fontSize": "30",
+                      "fontWeight": "600",
+                      "lineHeight": "30",
+                      "padding": "10/20",
+                      "align": [],
+                      "left": 0,
+                      "top": 0
+                    },
+                    "children": [],
+                    "animation": []
+                  },
+                  {
+                    "name": "text",
+                    "props": {
+                      "text": "2020年1月倍施特全资收购宁波平易智慧交通工程有限公司，汽车票、用车业务拓展到浙江区域；4月倍施特完成挂牌后首轮定增；5月倍施特（873100）调入创新层；6月倍施特全资收购黔西南州万峰畅行约租汽车服务有限公司，进一步加强用车业务布局；9月倍施特获得“瞪羚企业”称号。",
+                      "width": "550",
+                      "fontSize": "16",
+                      "fontWeight": "400",
+                      "lineHeight": "28",
+                      "padding": "10/20",
+                      "align": [],
+                      "left": 0,
+                      "top": 53,
+                      "textAlign": "justify"
+                    },
+                    "children": [],
+                    "animation": []
+                  }
+                ],
+                "animation": []
+              }
+            ],
+            "animation": []
+          }
+        ],
+        "animation": []
+      }
+    ],
+    "animation": []
+  }
+]

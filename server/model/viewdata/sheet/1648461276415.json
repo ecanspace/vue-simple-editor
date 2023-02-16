@@ -1,0 +1,333 @@
+[
+  {
+    "name": "scroller",
+    "props": {
+      "height": "2330",
+      "left": 0,
+      "top": 0,
+      "backgroundColor": null
+    },
+    "children": [
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundImage": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/22977432.jpg",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 0,
+          "width": "1200",
+          "height": "400",
+          "coveredWidth": true
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": null,
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 442,
+          "width": 1200,
+          "height": 816,
+          "transform": "both"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "合作方式",
+              "width": 197,
+              "fontSize": "38",
+              "fontWeight": "600",
+              "lineHeight": "38",
+              "padding": "10/20",
+              "left": 502,
+              "top": 19,
+              "align": [
+                "horizontal"
+              ],
+              "textAlign": "center",
+              "color": "#0084FF"
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "业务合作",
+              "width": 197,
+              "fontSize": "38",
+              "fontWeight": "600",
+              "lineHeight": "38",
+              "padding": "10/20",
+              "left": 624,
+              "top": 187,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "联系我们：400-660-8787",
+              "width": 406,
+              "fontSize": "30",
+              "fontWeight": "600",
+              "lineHeight": "30",
+              "padding": "10/20",
+              "left": 397,
+              "top": 115,
+              "align": [
+                "horizontal"
+              ],
+              "textAlign": "center"
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/23702019.jpg",
+              "objectFit": "contain",
+              "width": "600",
+              "height": "400",
+              "top": 301,
+              "left": 22,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "●To C 合作：",
+              "width": 200,
+              "fontSize": "18",
+              "fontWeight": "600",
+              "lineHeight": "1.75",
+              "padding": "10/20",
+              "left": 630,
+              "top": 250,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "●To B 合作：",
+              "width": 200,
+              "fontSize": "18",
+              "fontWeight": "600",
+              "lineHeight": "1.75",
+              "padding": "10/20",
+              "left": 632,
+              "top": 413
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "目前倍施特子公司旗下品牌“达运出行”、“万峰畅行”已在四川达州、贵州黔西南州多个县城开展网约车服务，司机招募正在火热进行中，具体可关注【达运出行平台】、【万峰畅行】微信公众号了解，欢迎各位司机报名加入我们。",
+              "width": 565,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "1.75",
+              "padding": "10/20",
+              "left": 629,
+              "top": 284,
+              "align": [],
+              "textAlign": "justify"
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "●To G 合作：",
+              "width": 200,
+              "fontSize": "18",
+              "fontWeight": "600",
+              "lineHeight": "1.75",
+              "padding": "10/20",
+              "left": 632,
+              "top": 660
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "①. 运输企业/车站/车队可通过团子出行平台，实现汽车票、出租车、网约车、定制客运、租车、包车、代驾、火车票、企业通勤车等业务合作，倍施特竭力帮助客运企业转型升级。\n②. 根据客运企业诉求及业务情况，帮助运输企业搭建本地的OTS平台，并提供运营、运维支撑，实现保存量、创增量的长效转型机制。\n欢迎全国运输集团/企业/车站/车队咨询合作事宜，共同助力道路客运企业转型升级。",
+              "width": 544,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "28",
+              "padding": "10/20",
+              "left": 631,
+              "top": 446,
+              "textAlign": "justify"
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "倍施特智慧客运大数据平台可为政府及行业部门提供标准化数据，保障政府科学决策。期待与各级政府单位、行管部门紧密合作，共促发展。",
+              "width": 477,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "1.75",
+              "padding": "10/20",
+              "left": 631,
+              "top": 695,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": null,
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 1259,
+          "width": 1200,
+          "height": 537,
+          "transform": "both"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "OTA代理合作",
+              "width": 287,
+              "fontSize": "38",
+              "fontWeight": "600",
+              "lineHeight": "38",
+              "padding": "10/20",
+              "left": 31,
+              "top": 190,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/23702116.jpg",
+              "objectFit": "contain",
+              "width": "600",
+              "height": "400",
+              "top": 72,
+              "left": 583,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "倍施特目前已于携程、美团、飞猪、同程多个OTA平台合作，授权代理汽车票、定制客运等业务。OTA渠道可通过自有渠道资源帮助倍施特在合作地区各类业务输出产品能力，输出市场政策，实现市场渗透。",
+              "width": 539,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "1.75",
+              "padding": "10/20",
+              "left": 34,
+              "top": 249,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": null,
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 1797,
+          "width": "1200",
+          "height": 515,
+          "transform": "both"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "资本合作",
+              "width": 287,
+              "fontSize": "38",
+              "fontWeight": "600",
+              "lineHeight": "38",
+              "padding": "10/20",
+              "left": 624,
+              "top": 180,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/23702145.jpg",
+              "objectFit": "contain",
+              "width": "600",
+              "height": "400",
+              "top": 55,
+              "left": 0,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "倍施特的同行业或上下游企业可通过技术、资本或运力合作，以并购、控股、参股的形式总公司或者分子公司，实现互利共赢，共同发展。",
+              "width": 547,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "1.75",
+              "padding": "10/20",
+              "left": 630,
+              "top": 238,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      }
+    ],
+    "animation": []
+  }
+]

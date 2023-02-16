@@ -1,0 +1,431 @@
+[
+  {
+    "name": "menu",
+    "props": {
+      "backgroundColor": "#14151a",
+      "index": 0,
+      "horizontal": "flex-center",
+      "color": "#fff"
+    },
+    "children": [],
+    "animation": [],
+    "domProps": {}
+  },
+  {
+    "name": "container",
+    "props": {
+      "backgroundColor": "rgba(20, 21, 26, 1)",
+      "backgroundImage": "https://st-gdx.dancf.com/gaodingx/4368/configs/system/20211216-110823-5728.png",
+      "index": 1,
+      "margin": "0"
+    },
+    "children": [
+      {
+        "name": "container",
+        "props": {
+          "index": 0
+        },
+        "children": [
+          {
+            "name": "image",
+            "props": {
+              "width": "620",
+              "height": "120",
+              "padding": "58 0 35",
+              "index": 0,
+              "src": "https://st-gdx.dancf.com/gaodingx/4368/configs/system/20211216-110948-e339.png?x-oss-process=image/format,webp"
+            },
+            "children": [],
+            "animation": [],
+            "domProps": {}
+          }
+        ],
+        "animation": [],
+        "domProps": {}
+      },
+      {
+        "name": "container",
+        "props": {
+          "margin": "0/0/97/0",
+          "index": 1,
+          "direction": "flex-row",
+          "horizontal": "flex-center"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "width": "200",
+              "height": "",
+              "padding": "14 20",
+              "margin": "0 20 0 0",
+              "backgroundColor": "rgba(34, 84, 244, 1)",
+              "borderRadius": "4",
+              "linkUrl": "https://cn.vuejs.org/v2/api/",
+              "index": 0,
+              "color": "#FFFFFF",
+              "fontSize": 16,
+              "fontWeight": 400,
+              "textAlign": "center"
+            },
+            "children": [],
+            "animation": [],
+            "domProps": {
+              "innerHTML": "Vue 官网"
+            }
+          },
+          {
+            "name": "text",
+            "props": {
+              "width": "200",
+              "height": "",
+              "padding": "14 20",
+              "margin": "0 20 0 0",
+              "backgroundColor": "rgba(34, 84, 244, 1)",
+              "borderRadius": "4",
+              "linkUrl": "/demo/subpage",
+              "index": 1,
+              "color": "#FFFFFF",
+              "fontSize": 16,
+              "fontWeight": 400,
+              "textAlign": "center"
+            },
+            "children": [],
+            "animation": [],
+            "domProps": {
+              "innerHTML": "二级页面"
+            }
+          }
+        ],
+        "animation": [],
+        "domProps": {}
+      },
+      {
+        "name": "video",
+        "props": {
+          "width": "1200",
+          "height": "644",
+          "index": 2,
+          "src": "https://st-gdx.dancf.com/gaodingx/4368/configs/system/20211215-134408-52a3.mp4"
+        },
+        "children": [],
+        "animation": [],
+        "domProps": {}
+      },
+      {
+        "name": "container",
+        "props": {
+          "width": "1200",
+          "padding": "71 0 88 0",
+          "margin": "0 auto",
+          "index": 3,
+          "direction": "flex-row",
+          "horizontal": "flex-around"
+        },
+        "children": [
+          {
+            "name": "container",
+            "props": {
+              "width": "240",
+              "padding": "10",
+              "index": 0,
+              "direction": "flex-column",
+              "horizontal": "flex-start",
+              "vertical": "items-start"
+            },
+            "children": [
+              {
+                "name": "image",
+                "props": {
+                  "width": "64",
+                  "height": "64",
+                  "margin": "0",
+                  "index": 0,
+                  "src": "https://st-gdx.dancf.com/gaodingx/4368/configs/system/20211209-163933-85f1.png"
+                },
+                "children": [],
+                "animation": [],
+                "domProps": {}
+              },
+              {
+                "name": "text",
+                "props": {
+                  "margin": "24px 0 0",
+                  "index": 1,
+                  "color": "#eee",
+                  "fontSize": 16,
+                  "fontWeight": 400
+                },
+                "children": [],
+                "animation": [],
+                "domProps": {
+                  "innerHTML": "兼容全图片格式"
+                }
+              },
+              {
+                "name": "text",
+                "props": {
+                  "margin": "12px 0 0",
+                  "index": 2,
+                  "color": "#999",
+                  "fontSize": 16,
+                  "fontWeight": 400
+                },
+                "children": [],
+                "animation": [],
+                "domProps": {
+                  "innerHTML": "兼容全图片文件编辑能力"
+                }
+              }
+            ],
+            "animation": [],
+            "domProps": {}
+          },
+          {
+            "name": "container",
+            "props": {
+              "width": "240",
+              "padding": "10",
+              "index": 1,
+              "direction": "flex-column",
+              "horizontal": "flex-start",
+              "vertical": "items-start"
+            },
+            "children": [
+              {
+                "name": "image",
+                "props": {
+                  "width": "64",
+                  "height": "64",
+                  "margin": "0",
+                  "index": 0,
+                  "src": "https://st-gdx.dancf.com/gaodingx/4368/configs/system/20211209-163953-9f34.png"
+                },
+                "children": [],
+                "animation": [],
+                "domProps": {}
+              },
+              {
+                "name": "text",
+                "props": {
+                  "margin": "24px 0 0",
+                  "index": 1,
+                  "color": "#eee",
+                  "fontSize": 16,
+                  "fontWeight": 400
+                },
+                "children": [],
+                "animation": [],
+                "domProps": {
+                  "innerHTML": "原生图像工具"
+                }
+              },
+              {
+                "name": "text",
+                "props": {
+                  "margin": "12px 0 0",
+                  "index": 2,
+                  "color": "#999",
+                  "fontSize": 16,
+                  "fontWeight": 400
+                },
+                "children": [],
+                "animation": [],
+                "domProps": {
+                  "innerHTML": "满足90%专业作图需求"
+                }
+              }
+            ],
+            "animation": [],
+            "domProps": {}
+          },
+          {
+            "name": "container",
+            "props": {
+              "width": "240",
+              "padding": "10",
+              "index": 2,
+              "direction": "flex-column",
+              "horizontal": "flex-start",
+              "vertical": "items-start"
+            },
+            "children": [
+              {
+                "name": "image",
+                "props": {
+                  "width": "64",
+                  "height": "64",
+                  "margin": "0",
+                  "index": 0,
+                  "src": "https://st-gdx.dancf.com/gaodingx/4368/configs/system/20211209-164008-5f6e.png"
+                },
+                "children": [],
+                "animation": [],
+                "domProps": {}
+              },
+              {
+                "name": "text",
+                "props": {
+                  "margin": "24px 0 0",
+                  "index": 1,
+                  "color": "#eee",
+                  "fontSize": 16,
+                  "fontWeight": 400
+                },
+                "children": [],
+                "animation": [],
+                "domProps": {
+                  "innerHTML": "适配快捷键"
+                }
+              },
+              {
+                "name": "text",
+                "props": {
+                  "margin": "12px 0 0",
+                  "index": 2,
+                  "color": "#999",
+                  "fontSize": 16,
+                  "fontWeight": 400
+                },
+                "children": [],
+                "animation": [],
+                "domProps": {
+                  "innerHTML": "完美适配PS快捷键组合操作"
+                }
+              }
+            ],
+            "animation": [],
+            "domProps": {}
+          }
+        ],
+        "animation": [],
+        "domProps": {}
+      },
+      {
+        "name": "animate",
+        "props": {
+          "index": 4
+        },
+        "children": [
+          {
+            "name": "image",
+            "props": {
+              "width": "1200",
+              "height": "340",
+              "padding": "0/0/100",
+              "margin": "0 auto",
+              "index": 0,
+              "src": "https://st-gdx.dancf.com/gaodingx/4368/configs/system/20211210-104411-f016.png"
+            },
+            "children": [],
+            "animation": [
+              {
+                "label": "向左进入",
+                "value": "fadeInRight"
+              }
+            ],
+            "domProps": {}
+          },
+          {
+            "name": "text",
+            "props": {
+              "top": "30%",
+              "left": "44%",
+              "index": 1,
+              "color": "#FFFFFF",
+              "fontSize": "20",
+              "fontWeight": 600,
+              "lineHeight": "",
+              "textAlign": "center"
+            },
+            "children": [],
+            "animation": [
+              {
+                "label": "由小变大进入",
+                "value": "zoomIn"
+              }
+            ],
+            "domProps": {
+              "innerHTML": "请输入文本"
+            }
+          }
+        ],
+        "animation": [],
+        "domProps": {}
+      },
+      {
+        "name": "container",
+        "props": {
+          "index": 5
+        },
+        "children": [
+          {
+            "name": "image",
+            "props": {
+              "index": 0,
+              "src": "https://st-gdx.dancf.com/gaodingx/4368/configs/system/20211210-094238-134b.png?x-oss-process=image/format,webp"
+            },
+            "children": [],
+            "animation": [],
+            "domProps": {}
+          },
+          {
+            "name": "text",
+            "props": {
+              "width": "400",
+              "height": "",
+              "padding": "6/0",
+              "top": "40%",
+              "left": "40%",
+              "index": 1,
+              "color": "#FFFFFF",
+              "fontSize": "32",
+              "fontWeight": 600,
+              "lineHeight": "",
+              "textAlign": "center"
+            },
+            "children": [],
+            "animation": [],
+            "domProps": {
+              "innerHTML": "我是标题"
+            }
+          },
+          {
+            "name": "text",
+            "props": {
+              "width": "400",
+              "padding": "10/0",
+              "margin": "14/0/40",
+              "top": "48%",
+              "left": "40%",
+              "index": 2,
+              "color": "#FFFFFF",
+              "fontSize": 16,
+              "fontWeight": 400,
+              "textAlign": "center"
+            },
+            "children": [],
+            "animation": [],
+            "domProps": {
+              "innerHTML": "我是一段文字<span style=\"font-family: &quot;Microsoft YaHei&quot;; font-size: 16px; font-style: normal;\">我是一段文字</span><span style=\"font-family: &quot;Microsoft YaHei&quot;; font-size: 16px; font-style: normal;\">我是一段文字</span>"
+            }
+          }
+        ],
+        "animation": [],
+        "domProps": {}
+      },
+      {
+        "name": "footer",
+        "props": {
+          "backgroundColor": "rgba(20, 21, 26, 1)",
+          "index": 6
+        },
+        "children": [],
+        "animation": [],
+        "domProps": {}
+      }
+    ],
+    "animation": [],
+    "domProps": {}
+  }
+]

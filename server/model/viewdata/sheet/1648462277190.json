@@ -1,0 +1,243 @@
+[
+  {
+    "name": "scroller",
+    "props": {
+      "height": "2200",
+      "left": 11,
+      "top": 0
+    },
+    "children": [
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundImage": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/22920406.jpg",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 0,
+          "width": 1200,
+          "height": "400",
+          "coveredWidth": true
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": null,
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 543,
+          "width": 1200,
+          "height": "1652",
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "智客⁺云站务系统",
+              "width": "420",
+              "color": "#0084FF",
+              "fontSize": "42",
+              "fontWeight": "600",
+              "lineHeight": "50",
+              "textAlign": "center",
+              "padding": "10/20",
+              "backgroundColor": "rgba(252, 254, 255, 1)",
+              "left": 390,
+              "top": 12,
+              "align": [
+                "horizontal"
+              ]
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/18463136.png",
+              "objectFit": "contain",
+              "width": 400,
+              "height": 200,
+              "top": 78,
+              "left": 400,
+              "align": [
+                "horizontal"
+              ]
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "“智客⁺客运站综合管理系统”是我公司依据交通部和各省交通运输厅相关标准全新设计，以“智慧客运”为理念，采用数据互通、分布式配载的“本地+云端”部署方式，实现站内调度、售检票、车辆安检等一体化管理；通过创新运营管理手段，帮助运输企业实现数据价值最大化，形成数据应用的增值体系，并可通过联网售票平台持续供应客流。既能满足集团型企业多站点服务要求，又兼容了老版本系统优势，有效降低客运站日常运营成本。所有应用只需在中心节点发布，系统部署、维护更加方便快捷。",
+              "width": 816,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "1.75",
+              "textAlign": "justify",
+              "padding": "10/20",
+              "left": 192,
+              "top": 284,
+              "align": [
+                "horizontal"
+              ]
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "主要用于对客运站管理、调度、售票、检票、结算、导乘、包车、安全、应急、决策和代售点管理等业务，实现对客运站信息流管理、监控和决策分析。",
+              "width": 840,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "1.75",
+              "textAlign": "left",
+              "padding": "10/20",
+              "left": 180,
+              "top": 1089,
+              "align": [
+                "horizontal"
+              ]
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "云站务系统",
+              "width": 290,
+              "fontSize": "38",
+              "fontWeight": "400",
+              "lineHeight": "1.75",
+              "textAlign": "center",
+              "padding": "10/20",
+              "left": 455,
+              "top": 1013,
+              "align": [
+                "horizontal"
+              ]
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/20279813.jpg",
+              "objectFit": "contain",
+              "width": "600",
+              "height": "400",
+              "top": 1191,
+              "left": 300,
+              "align": [
+                "horizontal"
+              ]
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/20255472.png",
+              "objectFit": "contain",
+              "width": "689",
+              "height": "542",
+              "top": 464,
+              "left": 256,
+              "align": [
+                "horizontal"
+              ]
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "width": 1200,
+          "height": "140",
+          "top": 402,
+          "left": 0,
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "button",
+            "props": {
+              "text": "个人用户",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": 40,
+              "left": 0,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "button",
+            "props": {
+              "text": "企业用户",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": 40,
+              "left": 400,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "button",
+            "props": {
+              "text": "政府或事业单位",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": 40,
+              "left": 800,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      }
+    ],
+    "animation": []
+  }
+]

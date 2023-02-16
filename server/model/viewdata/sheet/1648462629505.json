@@ -1,0 +1,278 @@
+[
+  {
+    "name": "scroller",
+    "props": {
+      "height": "1520",
+      "left": 0,
+      "top": 0
+    },
+    "children": [
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundImage": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/22918942.jpg",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 0,
+          "width": "1200",
+          "height": 399,
+          "coveredWidth": true
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 404,
+          "width": "1200",
+          "height": 100
+        },
+        "children": [
+          {
+            "name": "button",
+            "props": {
+              "text": "个人用户",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": "20",
+              "left": 0,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "button",
+            "props": {
+              "text": "企业用户",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": 20,
+              "left": 400,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "button",
+            "props": {
+              "text": "政府或事业单位",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": 20,
+              "left": 800,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 0)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": "50",
+          "top": 505,
+          "width": "1100",
+          "height": "300",
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/19836731.jpg",
+              "objectFit": "contain",
+              "width": "300",
+              "height": "300",
+              "top": 0,
+              "left": 0,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/19821944.jpg",
+              "objectFit": "contain",
+              "width": "300",
+              "height": "300",
+              "top": 0,
+              "left": 400,
+              "align": [
+                "horizontal"
+              ]
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/19821870.jpg",
+              "objectFit": "contain",
+              "width": "300",
+              "height": "300",
+              "top": 0,
+              "left": 800,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 0)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": "50",
+          "top": 844,
+          "width": "1100",
+          "height": "300",
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/19822803.jpg",
+              "objectFit": "contain",
+              "width": "300",
+              "height": "300",
+              "top": 0,
+              "left": 0
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/19832969.jpg",
+              "objectFit": "contain",
+              "width": "300",
+              "height": "300",
+              "top": 0,
+              "left": 400,
+              "align": [
+                "horizontal"
+              ]
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/19833961.jpg",
+              "objectFit": "contain",
+              "width": "300",
+              "height": "300",
+              "top": 0,
+              "left": 800
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 0)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": "50",
+          "top": 1182,
+          "width": "1100",
+          "height": "300",
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/19837560.jpg",
+              "objectFit": "contain",
+              "width": "300",
+              "height": "300",
+              "top": 0,
+              "left": 0
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/19837530.jpg",
+              "objectFit": "contain",
+              "width": "300",
+              "height": "300",
+              "top": 0,
+              "left": 400,
+              "align": [
+                "horizontal"
+              ]
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/22894952.jpg",
+              "objectFit": "contain",
+              "width": "300",
+              "height": "300",
+              "top": 0,
+              "left": 800
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      }
+    ],
+    "animation": []
+  }
+]

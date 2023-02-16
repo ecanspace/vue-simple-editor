@@ -1,0 +1,434 @@
+[
+  {
+    "name": "scroller",
+    "props": {
+      "height": "2560",
+      "left": 19,
+      "top": 20
+    },
+    "children": [
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundImage": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/22918942.jpg",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 0,
+          "width": 1200,
+          "height": "400",
+          "coveredWidth": true
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 404,
+          "width": "1200",
+          "height": 100
+        },
+        "children": [
+          {
+            "name": "button",
+            "props": {
+              "text": "个人用户",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": "20",
+              "left": 0,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "button",
+            "props": {
+              "text": "企业用户",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": 20,
+              "left": 400,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "button",
+            "props": {
+              "text": "政府或事业单位",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": 20,
+              "left": 800,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "text",
+        "props": {
+          "text": "城际出行",
+          "width": 442,
+          "fontSize": "42",
+          "fontWeight": "600",
+          "lineHeight": "42",
+          "textAlign": "center",
+          "padding": "10/20",
+          "left": 379,
+          "top": 522,
+          "align": [
+            "horizontal"
+          ],
+          "color": "#0084FF"
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 610,
+          "width": "1200",
+          "height": 454
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "多省域覆盖，城际出行领跑者",
+              "width": 538,
+              "fontSize": "34",
+              "fontWeight": "400",
+              "lineHeight": "34",
+              "padding": "10/20",
+              "left": 48,
+              "top": 87,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "为了充分发挥定制客运灵活、小批次优势，满足乘客多样化、个性化的出行需求，倍施特联合客运企业/车站为广大乘客提供定制化城际出行服务。目前城际出行已覆盖四川、贵州、云南、重庆、浙江、湖北、安徽等地。四川地区同10余个地市州运输公司、集团建立合作关系，平台累计上线营运线路200余条，服务用户超过500万人次，未来倍施特将联合省内省外更多客运企业/车站，为更多乘客提供“门到门”、“点到点”的定制客运服务。",
+              "width": 507,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 54,
+              "top": 150,
+              "align": [],
+              "textAlign": "justify"
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/19868883.png",
+              "objectFit": "contain",
+              "width": "600",
+              "height": "375",
+              "top": 39,
+              "left": 600,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 1517,
+          "width": "1200",
+          "height": 454
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "支持小程序独立部署",
+              "width": 476,
+              "fontSize": "34",
+              "fontWeight": "400",
+              "lineHeight": "34",
+              "padding": "10/20",
+              "left": 55,
+              "top": 159,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "为满足不同供应商需求，城际出行平台可支持微信小程序独立部署，打造属于供应商自己的服务品牌，同时团子出行、OTA平台数据支持无缝对接，实现市域、省域、全国用户多维度覆盖。",
+              "width": 507,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 57,
+              "top": 214,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/19871635.png",
+              "objectFit": "contain",
+              "width": "600",
+              "height": "375",
+              "top": 42,
+              "left": 600,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 1972,
+          "width": "1200",
+          "height": 566,
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "强大系统功能，高效运营能力",
+              "width": 559,
+              "fontSize": "34",
+              "fontWeight": "400",
+              "lineHeight": "34",
+              "padding": "10/20",
+              "left": 618,
+              "top": 57,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "● 系统功能：城际定制客运系统提供智能运调管理、班次管理、运力管理、订单管理、基础信息管理、数据统计等功能模块。",
+              "width": 507,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 621,
+              "top": 119,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "●  运行方式：根据供应商运力情况，城际出行支持点到点（多点上下车），面到面（上门接送）、点面结合（上车点对区域）的运行方式。同时系统支持干线+摆渡模式，解决大城市接驳需求。",
+              "width": 507,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 619,
+              "top": 198,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "●  地图能力：倍施特与腾讯地图达成战略合作，为用户提供更加准确的地图定位服务，为司机端提供更加精准的线路规划功能。",
+              "width": 507,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 618,
+              "top": 308,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "●  运营能力：倍施特专业运营团队提供用户画像、竞品调研、价格体系制定、营销方案策划、物料设计、广告投放等运营支持，利用出行的高频场景，联合合作方配置运营活动，增加用户粘性与好感度，如：优惠券、线路会员卡、扫码获客系统等。",
+              "width": 507,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 619,
+              "top": 389,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/19870622.png",
+              "objectFit": "contain",
+              "width": "600",
+              "height": "375",
+              "top": 98,
+              "left": 0,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 1061,
+          "width": "1200",
+          "height": 455
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "在线预订，出行更方便",
+              "width": 488,
+              "fontSize": "34",
+              "fontWeight": "400",
+              "lineHeight": "34",
+              "padding": "10/20",
+              "left": 649,
+              "top": 99,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "● 线上购票：乘客可通过团子出行APP、团子出行微信公众号、团子汽车票城际专包车小程序实时查询城际出行班次信息，选择上下车点、乘车时间下单，等候司机接驾。",
+              "width": 490,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 652,
+              "top": 165,
+              "height": null,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "● OTA分销：目前城际出行系统可实现以下渠道分销：同程旅行、携程旅行、飞猪、美团。",
+              "width": 479,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 654,
+              "top": 278,
+              "height": null,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/19869190.png",
+              "objectFit": "contain",
+              "width": "598",
+              "height": "400",
+              "top": 27,
+              "left": 0,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      }
+    ],
+    "animation": []
+  }
+]

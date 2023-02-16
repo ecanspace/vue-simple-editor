@@ -1,0 +1,497 @@
+[
+  {
+    "name": "scroller",
+    "props": {
+      "height": "3452",
+      "left": 0,
+      "top": 69,
+      "backgroundColor": "rgba(255, 255, 255, 1)"
+    },
+    "children": [
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundImage": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/22920406.jpg",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 0,
+          "width": "1200",
+          "height": "400",
+          "coveredWidth": true
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 404,
+          "width": "1200",
+          "height": "140"
+        },
+        "children": [
+          {
+            "name": "button",
+            "props": {
+              "text": "个人用户",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": 40,
+              "left": 0,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "button",
+            "props": {
+              "text": "企业用户",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": 40,
+              "left": 400,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "button",
+            "props": {
+              "text": "政府或事业单位",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": 40,
+              "left": 800,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "text",
+        "props": {
+          "text": "智客⁺集团运营",
+          "width": 442,
+          "fontSize": "42",
+          "fontWeight": "600",
+          "lineHeight": "42",
+          "textAlign": "center",
+          "padding": "10/20",
+          "left": 379,
+          "top": 571,
+          "color": "#0084FF",
+          "align": [
+            "horizontal"
+          ]
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 663,
+          "width": 1200,
+          "height": 466,
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "人力资源",
+              "width": 398,
+              "fontSize": "38",
+              "fontWeight": "400",
+              "lineHeight": 14,
+              "padding": "10/20",
+              "left": 76,
+              "top": 171,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "对集团人力资源规划、招聘、培训、绩效、薪酬和劳动关系进行规划设计，降低集团整体用人成本，提升人力资源效能。",
+              "width": 500,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 77,
+              "top": 211,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/20275493.jpg",
+              "objectFit": "contain",
+              "width": "548",
+              "height": "350",
+              "top": 53,
+              "left": 603,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 1597,
+          "width": 1200,
+          "height": 454,
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "财务管控",
+              "width": 398,
+              "fontSize": "38",
+              "fontWeight": "400",
+              "lineHeight": 14,
+              "padding": "10/20",
+              "left": 55,
+              "top": 164,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "规划设计集团财务管控系统，通过管控集团的财务活动的合规性和有效性，实现集团价值最大化。",
+              "width": 539,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 56,
+              "top": 207,
+              "align": [],
+              "height": null
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/20277325.jpg",
+              "objectFit": "contain",
+              "width": "548",
+              "height": "350",
+              "top": 50,
+              "left": 607,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 2517,
+          "width": 1200,
+          "height": 463,
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "生产运营",
+              "width": 398,
+              "fontSize": "38",
+              "fontWeight": "400",
+              "lineHeight": 14,
+              "padding": "10/20",
+              "left": 49,
+              "top": 189,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "对集团安全、生产、票务、场站、固定资产等生产经营进行设计规划，达到开源节流，降本增效的最终目的。",
+              "width": 526,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 51,
+              "top": 236,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/20277823.jpg",
+              "objectFit": "contain",
+              "width": "548",
+              "height": "350",
+              "top": 59,
+              "left": 610,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 2052,
+          "width": 1200,
+          "height": 464,
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "业务分析",
+              "width": 497,
+              "fontSize": "38",
+              "fontWeight": "400",
+              "lineHeight": 14,
+              "padding": "10/20",
+              "left": 579,
+              "top": 176
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "针对汽运集团道路客运、旅游客运、定制班线、旅游包车、货运、酒店等业务进行宏观把控、营收分析，做好淡旺季应对，使企业营收最大化。",
+              "width": 568,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 584,
+              "top": 225,
+              "align": [],
+              "height": null
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/20277326.jpg",
+              "objectFit": "contain",
+              "width": "548",
+              "height": "350",
+              "top": 56,
+              "left": 0,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 1129,
+          "width": 1200,
+          "height": 467,
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "内控管理",
+              "width": 497,
+              "fontSize": "38",
+              "fontWeight": "400",
+              "lineHeight": 14,
+              "padding": "10/20",
+              "left": 586,
+              "top": 167,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "规划集团内控管理，保证企业资产、财务信息的准确性、真实性、有效性、及时性；保障对企业员工、业务流程、物流的有效管控。",
+              "width": 568,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 591,
+              "top": 212,
+              "align": [],
+              "height": null
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/20277224.jpg",
+              "objectFit": "contain",
+              "width": "548",
+              "height": "350",
+              "top": 57,
+              "left": 0,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 2980,
+          "width": 1200,
+          "height": 472,
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "运企大数据",
+              "width": 497,
+              "fontSize": "38",
+              "fontWeight": "400",
+              "lineHeight": 14,
+              "padding": "10/20",
+              "left": 583,
+              "top": 159,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "针对集团各项生产经营数据，进行系统的收集和展示，挖掘和分析大数据信息，为集团管理层提供有效决策的数据支撑。",
+              "width": "568",
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 587,
+              "top": 213,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/20277824.jpg",
+              "objectFit": "contain",
+              "width": "548",
+              "height": "350",
+              "top": 53,
+              "left": 0,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      }
+    ],
+    "animation": []
+  }
+]

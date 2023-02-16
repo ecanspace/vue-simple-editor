@@ -1,0 +1,316 @@
+[
+  {
+    "name": "scroller",
+    "props": {
+      "height": "2170",
+      "left": 0,
+      "top": 0
+    },
+    "children": [
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundImage": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/22918942.jpg",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 0,
+          "width": 1200,
+          "height": "400",
+          "coveredWidth": true
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 404,
+          "width": "1200",
+          "height": 100
+        },
+        "children": [
+          {
+            "name": "button",
+            "props": {
+              "text": "个人用户",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": "20",
+              "left": 0,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "button",
+            "props": {
+              "text": "企业用户",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": 20,
+              "left": 400,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "button",
+            "props": {
+              "text": "政府或事业单位",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": 20,
+              "left": 800,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "text",
+        "props": {
+          "text": "火车票在线购票",
+          "width": 442,
+          "fontSize": "42",
+          "fontWeight": "600",
+          "lineHeight": "42",
+          "textAlign": "center",
+          "padding": "10/20",
+          "left": 379,
+          "top": 529,
+          "align": [
+            "horizontal"
+          ],
+          "color": "#0084FF"
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 1108,
+          "width": "1200",
+          "height": 454,
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "在线抢订，极速出票",
+              "width": 398,
+              "fontSize": "38",
+              "fontWeight": "400",
+              "lineHeight": 14,
+              "padding": "10/20",
+              "left": 60,
+              "top": 158,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "火车票系统提供在线选座、智能抢票服务，代打报销凭证，线下电子客票代退票，免核验出票服务，保障乘客轻松出行。同时还为乘客提供极速出票服务，帮助用户轻松订票、出票。",
+              "width": 495,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 65,
+              "top": 211,
+              "height": null,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/19858409.jpg",
+              "objectFit": "contain",
+              "width": "600",
+              "height": "375",
+              "top": 40,
+              "left": 581,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 1562,
+          "width": "1200",
+          "height": 593,
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "退票轻松办理",
+              "width": 497,
+              "fontSize": "38",
+              "fontWeight": "400",
+              "lineHeight": 14,
+              "padding": "10/20",
+              "left": 352,
+              "top": 40,
+              "textAlign": "center",
+              "align": [
+                "horizontal"
+              ]
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "当用户出行计划发生变化时，可通过团子汽车票城际专包车小程序端、团子出行APP移动端在线实时办理退票手续，轻松又便捷。",
+              "width": 603,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 299,
+              "top": 106,
+              "align": [
+                "horizontal"
+              ]
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/29340507.jpg",
+              "objectFit": "contain",
+              "width": "683",
+              "height": "354",
+              "top": 198,
+              "left": 259,
+              "align": [
+                "horizontal"
+              ]
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 611,
+          "width": 1200,
+          "height": 496,
+          "transform": "lock"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "在线查询列车班次",
+              "width": 497,
+              "fontSize": "38",
+              "fontWeight": "400",
+              "lineHeight": 14,
+              "padding": "10/20",
+              "left": 660,
+              "top": 140,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/19858243.jpg",
+              "objectFit": "contain",
+              "width": "600",
+              "height": "375",
+              "top": 59,
+              "left": 41,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "火车票系统24小时为用户提供手机网页端、APP移动客户端、微信公众号、小程序等多个线上渠道全国列车时刻表查询、车次查询、票价及余票查询服务。并且支持12306绑定出票和代购预订出票两种方式，12306绑定出票可直接获取12306账户中常用乘车人信息，购票更便捷；代购预订出票可省去登陆12306账号操作，直接添加乘车人选座下单。",
+              "width": 495,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "align": [],
+              "left": 660,
+              "top": 199
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      }
+    ],
+    "animation": []
+  }
+]

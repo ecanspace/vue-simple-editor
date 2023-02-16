@@ -1,0 +1,893 @@
+[
+  {
+    "name": "scroller",
+    "props": {
+      "height": "5500",
+      "left": 0,
+      "top": 9,
+      "backgroundColor": "rgba(255, 255, 255, 1)"
+    },
+    "children": [
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundVideo": "http://10.10.24.110:1000/media/home.mp4",
+          "coverMode": "both",
+          "left": 0,
+          "top": 0,
+          "height": 782,
+          "width": 1200,
+          "moveMode": "lock",
+          "coveredWidth": true
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "left": 0,
+          "top": 76,
+          "height": 623,
+          "width": 1200,
+          "moveMode": "lock",
+          "coveredWidth": false,
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "wrapper",
+            "props": {
+              "left": 200,
+              "top": 179,
+              "height": 230,
+              "moveMode": "lock",
+              "width": 789,
+              "transform": "both"
+            },
+            "children": [
+              {
+                "name": "text",
+                "props": {
+                  "text": "道路客运行业自己的产业互联网",
+                  "width": 758,
+                  "color": "#FFFFFF",
+                  "fontSize": "54",
+                  "fontWeight": "400",
+                  "lineHeight": "54",
+                  "padding": "10/0",
+                  "left": 0,
+                  "top": 0,
+                  "align": []
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "text",
+                "props": {
+                  "text": "专业创新、用户至上、协作共赢、诚信坚韧",
+                  "width": 447,
+                  "color": "#FFFFFF",
+                  "fontSize": "22",
+                  "fontWeight": "400",
+                  "lineHeight": "22",
+                  "padding": "10/0",
+                  "left": 0,
+                  "top": 93
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "popover-fade",
+                "props": {
+                  "triggerImage": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/16287194.png",
+                  "triggerWidth": "155",
+                  "triggerHeight": "29",
+                  "contentImage": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/16287222.png",
+                  "contentImageWidth": "108",
+                  "contentImageHeight": "109",
+                  "left": 0,
+                  "top": 175
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "popover-fade",
+                "props": {
+                  "triggerImage": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/16287199.png",
+                  "triggerWidth": "155",
+                  "triggerHeight": "29",
+                  "contentImage": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/16850886.jpg",
+                  "contentImageWidth": "108",
+                  "contentImageHeight": "109",
+                  "left": 160,
+                  "top": 174
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "popover-fade",
+                "props": {
+                  "triggerImage": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/16287200.png",
+                  "triggerWidth": "155",
+                  "triggerHeight": "29",
+                  "contentImage": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/16287221.png",
+                  "contentImageWidth": "108",
+                  "contentImageHeight": "109",
+                  "left": 323,
+                  "top": 174
+                },
+                "children": [],
+                "animation": []
+              }
+            ],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 799,
+          "width": 1200,
+          "height": 723,
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "PRODUCT INTRODUCTION",
+              "width": 885,
+              "color": "#EDEFF4",
+              "fontSize": "62",
+              "fontWeight": "600",
+              "lineHeight": "124",
+              "padding": "10/20",
+              "left": 158,
+              "top": 0,
+              "align": [
+                "horizontal"
+              ]
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "产品介绍",
+              "width": 259,
+              "fontSize": "54",
+              "fontWeight": "400",
+              "lineHeight": "54",
+              "padding": "10/20",
+              "left": 471,
+              "top": 115,
+              "align": [
+                "horizontal"
+              ]
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "科技赋能，助力企业数字化转型升级",
+              "width": 457,
+              "fontSize": "26",
+              "fontWeight": "400",
+              "lineHeight": "26",
+              "padding": "10/20",
+              "left": 372,
+              "top": 203,
+              "align": [
+                "horizontal"
+              ]
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "wrapper",
+            "props": {
+              "coverMode": "horizontal",
+              "moveMode": "both",
+              "left": 0,
+              "top": 290,
+              "width": 1200,
+              "height": 433,
+              "transform": "vertical"
+            },
+            "children": [
+              {
+                "name": "popover-slide",
+                "props": {
+                  "left": 0,
+                  "top": 0,
+                  "triggerImage": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/23612285.jpg",
+                  "contentImage": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/23612286.jpg",
+                  "triggerWidth": "390",
+                  "triggerHeight": "433",
+                  "contentImageWidth": "",
+                  "contentImageHeight": "",
+                  "linkUrl": "/gryh"
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "popover-slide",
+                "props": {
+                  "left": 406,
+                  "top": 0,
+                  "triggerImage": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/23612282.jpg",
+                  "triggerWidth": "390",
+                  "triggerHeight": "433",
+                  "contentImage": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/23612283.jpg",
+                  "linkUrl": "/qyyh"
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "popover-slide",
+                "props": {
+                  "left": 810,
+                  "top": 0,
+                  "triggerImage": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/23612288.jpg",
+                  "triggerWidth": "390",
+                  "triggerHeight": "433",
+                  "contentImage": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/23612290.jpg",
+                  "linkUrl": "/zfhsydw"
+                },
+                "children": [],
+                "animation": []
+              }
+            ],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 1607,
+          "width": "1200",
+          "height": 1205,
+          "transform": "vertical",
+          "zIndex": "3"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "OTS SOLUTION",
+              "width": 520,
+              "color": "#DDDDDD",
+              "fontSize": "62",
+              "fontWeight": "600",
+              "lineHeight": "124",
+              "padding": "10/20",
+              "left": 340,
+              "top": 0,
+              "align": [
+                "horizontal"
+              ]
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "OTS解决方案",
+              "width": 363,
+              "fontSize": "54",
+              "fontWeight": "400",
+              "lineHeight": "54",
+              "padding": "10/20",
+              "left": 419,
+              "top": 125,
+              "align": [
+                "horizontal"
+              ]
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "以“OTS会员体系”为核心，守存拓新重塑行业生态",
+              "width": 636,
+              "fontSize": "26",
+              "fontWeight": "400",
+              "lineHeight": "26",
+              "padding": "10/20",
+              "left": 282,
+              "top": 215,
+              "align": [
+                "horizontal"
+              ]
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/23682911.jpg",
+              "objectFit": "contain",
+              "width": "1080",
+              "height": "633",
+              "top": 289,
+              "left": 60,
+              "align": [
+                "horizontal"
+              ]
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "OTS会员体系（Online Transportation System）",
+              "width": 595,
+              "fontSize": "24",
+              "fontWeight": "600",
+              "lineHeight": "24",
+              "padding": "10/20",
+              "left": 303,
+              "top": 936,
+              "align": [
+                "horizontal"
+              ]
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "“OTS会员体系”以运输集团线下各业务场景产品为流量入口，通过建立所有产品的SKU库存、营销、支付、会员、地图、评价等互联网平台体系能力为标准，服务全部业务线，树立会员服务标准及品牌，实现会员内循环的同时拓展新业务，实现保存量、创增量的长效转型机制。",
+              "width": 901,
+              "fontSize": "18",
+              "fontWeight": "400",
+              "lineHeight": "36",
+              "padding": "10/20",
+              "left": 150,
+              "top": 989,
+              "align": [
+                "horizontal"
+              ],
+              "textAlign": "justify"
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "button",
+            "props": {
+              "text": "查看详情",
+              "themeColor": "#409EFF",
+              "fontSize": 14,
+              "fontWeight": "400",
+              "lineHeight": 14,
+              "width": 130,
+              "height": 40,
+              "top": 1133,
+              "left": 535,
+              "linkUrl": "/jjfa",
+              "align": [
+                "horizontal"
+              ]
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundImage": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/16015332.png",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 2852,
+          "width": 1200,
+          "height": 600,
+          "coveredWidth": true,
+          "transform": "vertical"
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "width": 1200,
+          "height": 573,
+          "top": 2866,
+          "left": 0,
+          "transform": "vertical",
+          "zIndex": "10"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "OTA及500+运企平台的合作",
+              "width": 723,
+              "color": "#FFFFFF",
+              "fontSize": "54",
+              "fontWeight": "400",
+              "lineHeight": "54",
+              "padding": "10/20",
+              "left": 239,
+              "top": 101,
+              "align": [
+                "horizontal"
+              ]
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "button",
+            "props": {
+              "text": "查看详情",
+              "themeColor": "#409EFF",
+              "fontSize": 14,
+              "fontWeight": "400",
+              "lineHeight": 14,
+              "width": 130,
+              "height": 40,
+              "top": 218,
+              "left": 535,
+              "linkUrl": "/hzgy",
+              "align": [
+                "horizontal"
+              ]
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "wrapper",
+            "props": {
+              "width": 1200,
+              "height": 200,
+              "top": 319,
+              "left": 0,
+              "transform": "both",
+              "coveredWidth": false
+            },
+            "children": [
+              {
+                "name": "image",
+                "props": {
+                  "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/16031619.png",
+                  "objectFit": "contain",
+                  "width": "73",
+                  "height": "88",
+                  "top": 41,
+                  "left": 219,
+                  "align": []
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "text",
+                "props": {
+                  "text": "需求沟通",
+                  "width": 113,
+                  "color": "#FFFFFF",
+                  "fontSize": "18",
+                  "fontWeight": "400",
+                  "lineHeight": "18",
+                  "padding": "10/20",
+                  "align": [],
+                  "left": 198,
+                  "top": 128
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "image",
+                "props": {
+                  "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/16031722.png",
+                  "objectFit": "contain",
+                  "width": "84",
+                  "height": "100",
+                  "top": 35,
+                  "left": 323,
+                  "align": []
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "image",
+                "props": {
+                  "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/16031620.png",
+                  "objectFit": "contain",
+                  "width": "73",
+                  "height": "88",
+                  "top": 28,
+                  "left": 447,
+                  "align": []
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "text",
+                "props": {
+                  "text": "签订协议",
+                  "width": 113,
+                  "color": "#FFFFFF",
+                  "fontSize": "18",
+                  "fontWeight": "400",
+                  "lineHeight": "18",
+                  "padding": "10/20",
+                  "align": [],
+                  "left": 428,
+                  "top": 127
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "image",
+                "props": {
+                  "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/16031722.png",
+                  "objectFit": "contain",
+                  "width": "84",
+                  "height": "100",
+                  "top": 35,
+                  "left": 555,
+                  "align": []
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "image",
+                "props": {
+                  "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/16031621.png",
+                  "objectFit": "contain",
+                  "width": "73",
+                  "height": "88",
+                  "top": 30,
+                  "left": 679,
+                  "align": []
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "text",
+                "props": {
+                  "text": "数据接入",
+                  "width": 113,
+                  "color": "#FFFFFF",
+                  "fontSize": "18",
+                  "fontWeight": "400",
+                  "lineHeight": "18",
+                  "padding": "10/20",
+                  "align": [],
+                  "left": 665,
+                  "top": 127
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "image",
+                "props": {
+                  "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/16031722.png",
+                  "objectFit": "contain",
+                  "width": "84",
+                  "height": "100",
+                  "top": 33,
+                  "left": 790,
+                  "align": []
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "image",
+                "props": {
+                  "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/16031622.png",
+                  "objectFit": "contain",
+                  "width": "73",
+                  "height": "88",
+                  "top": 34,
+                  "left": 908,
+                  "align": []
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "text",
+                "props": {
+                  "text": "配置上线",
+                  "width": 113,
+                  "color": "#FFFFFF",
+                  "fontSize": "18",
+                  "fontWeight": "400",
+                  "lineHeight": "18",
+                  "padding": "10/20",
+                  "align": [],
+                  "left": 892,
+                  "top": 128
+                },
+                "children": [],
+                "animation": []
+              }
+            ],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundImage": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/16903676.jpg",
+          "coverMode": "both",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 3882,
+          "width": "1200",
+          "height": "980",
+          "coveredWidth": true,
+          "transform": "vertical"
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 0.8)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 4099,
+          "width": "1200",
+          "height": 546,
+          "transform": "vertical",
+          "coveredWidth": true
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 4099,
+          "width": 1200,
+          "height": "546",
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "About Us",
+              "width": 321,
+              "color": "#EDEFF4",
+              "fontSize": "62",
+              "fontWeight": "400",
+              "lineHeight": "93",
+              "padding": "10/20",
+              "left": 440,
+              "top": 0,
+              "align": [
+                "horizontal"
+              ]
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "关于我们",
+              "width": 262,
+              "color": "#000000",
+              "fontSize": "54",
+              "fontWeight": "400",
+              "lineHeight": "54",
+              "padding": "10/20",
+              "left": 469,
+              "top": 100,
+              "align": [
+                "horizontal"
+              ]
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "wrapper",
+            "props": {
+              "coverMode": "horizontal",
+              "moveMode": "both",
+              "left": 306,
+              "top": 184,
+              "width": 618,
+              "height": 256,
+              "transform": "both"
+            },
+            "children": [
+              {
+                "name": "text",
+                "props": {
+                  "text": "核心价值观：专业创新、用户至上、协作共赢、诚信坚韧",
+                  "width": 598,
+                  "fontSize": "22",
+                  "fontWeight": "400",
+                  "lineHeight": "66",
+                  "textAlign": "center",
+                  "padding": "10/20",
+                  "left": 0,
+                  "top": 0,
+                  "align": []
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "text",
+                "props": {
+                  "text": "使命：为小镇青年服务，为沉默的大多数服务",
+                  "width": 598,
+                  "fontSize": "22",
+                  "fontWeight": "400",
+                  "lineHeight": "66",
+                  "textAlign": "center",
+                  "padding": "10/20",
+                  "left": 0,
+                  "top": 72,
+                  "align": []
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "text",
+                "props": {
+                  "text": "愿景：成为世界一流的一步式出行服务商",
+                  "width": 598,
+                  "fontSize": "22",
+                  "fontWeight": "400",
+                  "lineHeight": "66",
+                  "textAlign": "center",
+                  "padding": "10/20",
+                  "left": 0,
+                  "top": 144,
+                  "align": []
+                },
+                "children": [],
+                "animation": []
+              }
+            ],
+            "animation": []
+          },
+          {
+            "name": "button",
+            "props": {
+              "text": "查看详情",
+              "themeColor": "#409EFF",
+              "fontSize": 14,
+              "fontWeight": "400",
+              "lineHeight": 14,
+              "width": 130,
+              "height": 40,
+              "top": 457,
+              "left": 535,
+              "linkUrl": "/gywm",
+              "align": [
+                "horizontal"
+              ]
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "width": 1200,
+          "height": 423,
+          "top": 3455,
+          "left": 0,
+          "backgroundImage": "",
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "image",
+            "props": {
+              "src": "http://127.0.0.1:1000/images/hzhb.png",
+              "objectFit": "contain",
+              "width": "1200",
+              "height": "320",
+              "top": 52,
+              "left": 0,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "width": 1200,
+          "height": 555,
+          "top": 4864,
+          "left": 0,
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "carousel",
+            "props": {
+              "left": 40,
+              "top": 45
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "width": 1200,
+          "height": 1243,
+          "top": 1607,
+          "left": 0,
+          "backgroundColor": "rgba(245, 245, 245, 1)",
+          "coveredWidth": true,
+          "transform": "vertical",
+          "zIndex": "1"
+        },
+        "children": [],
+        "animation": []
+      }
+    ],
+    "animation": []
+  }
+]

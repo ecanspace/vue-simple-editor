@@ -1,0 +1,1102 @@
+[
+  {
+    "name": "scroller",
+    "props": {
+      "height": "3400",
+      "left": 1,
+      "top": 66,
+      "backgroundColor": "rgba(255, 255, 255, 1)"
+    },
+    "children": [
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundImage": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/22920406.jpg",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 0,
+          "width": 1200,
+          "height": "400",
+          "coveredWidth": true
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 404,
+          "width": "1200",
+          "height": "140"
+        },
+        "children": [
+          {
+            "name": "button",
+            "props": {
+              "text": "个人用户",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": 40,
+              "left": 0,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "button",
+            "props": {
+              "text": "企业用户",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": 40,
+              "left": 400,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "button",
+            "props": {
+              "text": "政府或事业单位",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": 40,
+              "left": 800,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "text",
+        "props": {
+          "text": "港口智慧票务平台",
+          "width": 442,
+          "fontSize": "42",
+          "fontWeight": "600",
+          "lineHeight": "42",
+          "textAlign": "center",
+          "padding": "10/20",
+          "left": 379,
+          "top": 552,
+          "color": "#0084FF",
+          "align": [
+            "horizontal"
+          ]
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 723,
+          "width": 1200,
+          "height": 659,
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "业务功能完善，符合行业监管要求",
+              "width": 614,
+              "fontSize": "38",
+              "fontWeight": "400",
+              "lineHeight": "38",
+              "padding": "10/20",
+              "left": 0,
+              "top": 0,
+              "align": [],
+              "height": null
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "● 符合主管部门实名监管要求，人证票三合一才允许进入候船大厅；",
+              "width": 564,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 0,
+              "top": 65,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "● 完善的业务功能并突出本地化特点：支持市民卡；支持会员通关；支持零元票、航线特种票等；",
+              "width": 564,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 0,
+              "top": 104,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "● 支持抢票制和分票制模式；",
+              "width": 564,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 0,
+              "top": 173,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "● 支持传统的一座制和节点运输制出票方式，可一座多售提高实载率；",
+              "width": 564,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 0,
+              "top": 219,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "● 先进的AI人脸识别服务：实现旅客再次出行可直接刷脸进站、刷脸检票，无需再掏身份证，实现无感通行；",
+              "width": 564,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 0,
+              "top": 260,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "● 创新岗亭式售票通道，过渡车辆司机不用下车直接购票，有效的提高了车辆售票效率；",
+              "width": 564,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 0,
+              "top": 334,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "● 协议车辆绿色通道：定点班车通过车辆识别技术结合智慧票务平台，无须购票，自动识别且自动开闸门，实现了快速通行；",
+              "width": 564,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 0,
+              "top": 404,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "● 支持旅行社团体购票；",
+              "width": 564,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 0,
+              "top": 476,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "● 支持取消纸质船票，自助开电子发票；",
+              "width": 564,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 0,
+              "top": 519,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "● 热门航线线上提供候补功能；",
+              "width": 564,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 0,
+              "top": 566,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "● 节假日分时预约，控制流量。",
+              "width": 564,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 0,
+              "top": 608,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/23755983.jpg",
+              "objectFit": "fill",
+              "width": "548",
+              "height": "350",
+              "top": 160,
+              "left": 588,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 1879,
+          "width": 1200,
+          "height": 1040,
+          "transform": "both"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "功能简介",
+              "width": 207,
+              "fontSize": "38",
+              "fontWeight": "600",
+              "lineHeight": "38",
+              "padding": "10/20",
+              "left": 497,
+              "top": 0,
+              "align": [
+                "horizontal"
+              ],
+              "height": null,
+              "margin": ""
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "● 售票系统：\n提供窗口售票、自助机售票、微信售票等多渠道售票功能，支持散客与车渡实名售票、退票、废票，支持微信、支付宝等主流支付渠道，以及刷脸支付购票。\n● 自助开电子发票：\n乘客可在微信公众号上开具电子发票。支持开散客发票、车渡发票、停车场发票或其他业务发票。\n● 检票系统：\n提供闸机检票、手持机检票、人工检票等多种灵活实名检票方式，支持纸质船票、手机订单号、二代身份证等检票，提供实名乘船清单。乘客可凭二代身份证或刷脸检票，“人证票”三合一则闸机自动检票通关。\n● 自动语音广播系统：\n标准普通话自动播报航班信息，无需值守节约人力成本。广播系统与售票电脑联网，自动根据售票信息播报，避免漏播错播，同时支持中英文双语播音满足不同人群需求。",
+              "width": 594,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "28",
+              "padding": "10/20",
+              "left": 12,
+              "top": 84,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "● 信息发布系统：\n售票大屏实时显示船期通告、停航通知、窗口售票状态、航班余票监测、临时通知、当前检票信息等，引导旅客乘船。\n● 旅行社团体票下单系统：\n为方便旅行社购买团体票而单独设立，旅行社需线下向客运公司申请开户，申请成功后可自行开设及管理多个分帐号，通过主帐号及分帐号均可在线下单，可批量导入乘客实名信息，票款在线支付给客运公司。\n● 会员通关系统：\n会员卡持卡人员可直接在会员通关机上自助扣费通关，不需要事先购买船票。\n● 岗亭式购票：\n按照高速公路收费亭标准建立，采用先进的无感摄像头对车辆进行抓拍，自动获取车牌传输到港口智慧票务平台中，实现快速出票，自助开闸门通行。司机不用下车可直接购票，有效提高车辆售票效率，节省购票时间，增强旅客快速购票体验度；通道LED信息发布屏上实时显示购票车辆信息和收费金额；购票后，车辆直 接行驶到待渡通道排队上船。网约车无须再次购票，可自动认别直接开闸门通行。",
+              "width": 594,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "28",
+              "padding": "10/20",
+              "left": 12,
+              "top": 526,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/23756532.jpg",
+              "objectFit": "fill",
+              "width": "548",
+              "height": "350",
+              "top": 130,
+              "left": 628,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/23756664.jpg",
+              "objectFit": "fill",
+              "width": "548",
+              "height": "350",
+              "top": 585,
+              "left": 627,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "width": 1200,
+          "height": 493,
+          "top": 1383,
+          "left": 0,
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "业务特点",
+              "width": 271,
+              "color": "#000000",
+              "fontSize": "38",
+              "fontWeight": "600",
+              "lineHeight": "38",
+              "textAlign": "center",
+              "padding": "10/20",
+              "align": [
+                "horizontal"
+              ],
+              "left": 465,
+              "top": 35,
+              "height": null
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://ntemimg.wezhan.cn/content/sitefiles/publicimages/2000000651.png",
+              "objectFit": "contain",
+              "width": "46",
+              "height": "46",
+              "top": 306,
+              "left": 37,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://ntemimg.wezhan.cn/content/sitefiles/publicimages/2000000654.png",
+              "objectFit": "contain",
+              "width": "46",
+              "height": "46",
+              "top": 141,
+              "left": 40,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://ntemimg.wezhan.cn/content/sitefiles/publicimages/2000000657.png",
+              "objectFit": "contain",
+              "width": "46",
+              "height": "46",
+              "top": 142,
+              "left": 441,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://ntemimg.wezhan.cn/content/sitefiles/publicimages/2000000655.png",
+              "objectFit": "contain",
+              "width": "46",
+              "height": "46",
+              "top": 143,
+              "left": 836,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://ntemimg.wezhan.cn/content/sitefiles/publicimages/2000000659.png",
+              "objectFit": "contain",
+              "width": "46",
+              "height": "46",
+              "top": 303,
+              "left": 837,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://ntemimg.wezhan.cn/content/sitefiles/publicimages/2000000650.png",
+              "objectFit": "contain",
+              "width": "46",
+              "height": "46",
+              "top": 304,
+              "left": 443,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "服务端基于Microsoft Windows操作系统，较好地支持各种外设，并降低人员培训成本； 并提供内置的服务端故障自动转移技术，支持云平台托管，降低前期投资。",
+              "width": 319,
+              "color": "#888888",
+              "fontSize": "12",
+              "fontWeight": "400",
+              "lineHeight": "21",
+              "padding": "10/20",
+              "align": [],
+              "left": 483,
+              "top": 183,
+              "height": null,
+              "textAlign": "justify"
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "系统支持24小时不间断运行， 服务端支持Microsoft 集群方案和第三方集群方案，提供运行日志记录所有的系统异常信息，本地文件日志和Windows事件日志同时记录详细的异常信息备查。",
+              "width": 330,
+              "color": "#888888",
+              "fontSize": "12",
+              "fontWeight": "400",
+              "lineHeight": "21",
+              "padding": "10/20",
+              "align": [],
+              "left": 78,
+              "top": 351,
+              "height": null,
+              "textAlign": "justify"
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "平台平均出票/检票速度低于1秒/票，客流吞吐量大于20万/人日（基于目前主流的服务器参数和标准部署模式）。",
+              "width": 313,
+              "color": "#888888",
+              "fontSize": "12",
+              "fontWeight": "400",
+              "lineHeight": "21",
+              "padding": "10/20",
+              "align": [],
+              "left": 80,
+              "top": 186,
+              "height": null,
+              "textAlign": "justify"
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "支持挂接各种数据上报接口，基于Microsoft Windows操作系统的各种外设，自助售/检票机等自助设备，二代身份证、条形码、二维码等便捷检票业务，市民卡扣费等。",
+              "width": 300,
+              "color": "#888888",
+              "fontSize": "12",
+              "fontWeight": "400",
+              "lineHeight": "21",
+              "padding": "10/20",
+              "align": [],
+              "left": 483,
+              "top": 350,
+              "height": null,
+              "textAlign": "justify"
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "支持通用的灾备方案，HTTP SSL加密通道， 旅客实名信息隐私加密，登录接口预留硬件电子令牌验证码等功能。",
+              "width": 300,
+              "color": "#888888",
+              "fontSize": "12",
+              "fontWeight": "400",
+              "lineHeight": "21",
+              "padding": "10/20",
+              "align": [],
+              "left": 879,
+              "top": 349,
+              "height": null,
+              "textAlign": "justify"
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "平台提供数据中心库， 所有的客户端均可通过局域网和互联网接入服务端， 通过授权中心集中管理所有的账户， 通过报表中心集中浏览各种报表， 通过调度台集中管理所有的客运站。",
+              "width": 314,
+              "color": "#888888",
+              "fontSize": "12",
+              "fontWeight": "400",
+              "lineHeight": "21",
+              "padding": "10/20",
+              "align": [],
+              "left": 877,
+              "top": 182,
+              "height": null,
+              "textAlign": "justify"
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "集中式",
+              "width": 200,
+              "color": "#000000",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "1.75",
+              "padding": "10/20",
+              "align": [],
+              "left": 877,
+              "top": 137
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "低成本",
+              "width": 200,
+              "color": "#000000",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "1.75",
+              "padding": "10/20",
+              "align": [],
+              "left": 482,
+              "top": 135
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "高性能",
+              "width": 200,
+              "color": "#000000",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "1.75",
+              "padding": "10/20",
+              "align": [],
+              "left": 80,
+              "top": 134
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "扩展性",
+              "width": 200,
+              "color": "#000000",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "1.75",
+              "padding": "10/20",
+              "align": [],
+              "left": 483,
+              "top": 301
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "可靠性",
+              "width": 200,
+              "color": "#000000",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "1.75",
+              "padding": "10/20",
+              "align": [],
+              "left": 78,
+              "top": 304
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "安全性",
+              "width": 200,
+              "color": "#000000",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "1.75",
+              "padding": "10/20",
+              "align": [],
+              "left": 879,
+              "top": 300
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "text",
+        "props": {
+          "text": "平易港口智慧票务平台，采用主流开发技术，基于高并发、高可用架构，通过云计算、大数据、物联网、AI人脸识别、 移动互联网等新一代信息技术与港口运输核心业务深度融合，实现港口运输组织和运输管理创新，打造高安全、高效率和高品质服务的新型智慧港口。",
+          "width": 1200,
+          "fontSize": "16",
+          "fontWeight": "400",
+          "lineHeight": "28",
+          "textIndent": "32",
+          "padding": "10/20",
+          "align": [],
+          "left": 0,
+          "top": 615
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "width": 1200,
+          "height": 451,
+          "top": 2920,
+          "left": 0,
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "典型案例",
+              "width": 200,
+              "fontSize": "36",
+              "fontWeight": "600",
+              "lineHeight": "36",
+              "padding": "10/20",
+              "align": [
+                "horizontal"
+              ],
+              "left": 500,
+              "top": 0
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "wrapper",
+            "props": {
+              "width": 399,
+              "height": 170,
+              "top": 80,
+              "left": 0,
+              "transform": "both"
+            },
+            "children": [
+              {
+                "name": "text",
+                "props": {
+                  "text": "舟山海星轮船有限公司",
+                  "width": "399",
+                  "color": "#000000",
+                  "fontSize": "28",
+                  "fontWeight": "400",
+                  "lineHeight": "35",
+                  "padding": "10/20",
+                  "align": [],
+                  "left": 0,
+                  "top": 0
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "text",
+                "props": {
+                  "text": "以普陀山景区为依托，主要经营辐射上海及舟山本岛周边的海上客运服务业，是浙江省最大水上客运企业，年客运量1312万人次。",
+                  "width": "380",
+                  "fontSize": 14,
+                  "fontWeight": "400",
+                  "lineHeight": "28",
+                  "padding": "10/20",
+                  "align": [],
+                  "left": 0,
+                  "top": 51
+                },
+                "children": [],
+                "animation": []
+              }
+            ],
+            "animation": []
+          },
+          {
+            "name": "wrapper",
+            "props": {
+              "width": 399,
+              "height": 170,
+              "top": 263,
+              "left": 0,
+              "transform": "both"
+            },
+            "children": [
+              {
+                "name": "text",
+                "props": {
+                  "text": "永嘉县轮船公司",
+                  "width": "399",
+                  "color": "#000000",
+                  "fontSize": "28",
+                  "fontWeight": "400",
+                  "lineHeight": "35",
+                  "padding": "10/20",
+                  "align": [
+                    "horizontal"
+                  ],
+                  "left": 0,
+                  "top": 0
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "text",
+                "props": {
+                  "text": "主要经营温州市境内内河普通客船、内河客滚船运输。",
+                  "width": "380",
+                  "fontSize": 14,
+                  "fontWeight": "400",
+                  "lineHeight": "28",
+                  "padding": "10/20",
+                  "align": [],
+                  "left": 0,
+                  "top": 48
+                },
+                "children": [],
+                "animation": []
+              }
+            ],
+            "animation": []
+          },
+          {
+            "name": "wrapper",
+            "props": {
+              "width": "406",
+              "height": "170",
+              "top": 80,
+              "left": 400,
+              "transform": "both"
+            },
+            "children": [
+              {
+                "name": "text",
+                "props": {
+                  "text": "上海吴淞口开发有限公司",
+                  "width": "399",
+                  "color": "#000000",
+                  "fontSize": "28",
+                  "fontWeight": "400",
+                  "lineHeight": "35",
+                  "padding": "10/20",
+                  "align": [],
+                  "left": 0,
+                  "top": 0
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "text",
+                "props": {
+                  "text": "跨省市水上客运窗口单位,主要经营上海至岱山、普陀山的定班船，上海至重庆、武汉的不定班长江旅游船。",
+                  "width": "380",
+                  "fontSize": 14,
+                  "fontWeight": "400",
+                  "lineHeight": "28",
+                  "padding": "10/20",
+                  "align": [],
+                  "left": 0,
+                  "top": 51
+                },
+                "children": [],
+                "animation": []
+              }
+            ],
+            "animation": []
+          },
+          {
+            "name": "wrapper",
+            "props": {
+              "width": 406,
+              "height": 170,
+              "top": 263,
+              "left": 400,
+              "transform": "both"
+            },
+            "children": [
+              {
+                "name": "text",
+                "props": {
+                  "text": "台州市椒江旅游票务有限公司",
+                  "width": 406,
+                  "color": "#000000",
+                  "fontSize": "28",
+                  "fontWeight": "400",
+                  "lineHeight": "35",
+                  "padding": "10/20",
+                  "align": [],
+                  "left": 0,
+                  "top": 0
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "text",
+                "props": {
+                  "text": "依托台州大陈岛航线而打造的旅游业务。",
+                  "width": "380",
+                  "fontSize": 14,
+                  "fontWeight": "400",
+                  "lineHeight": "28",
+                  "padding": "10/20",
+                  "align": [],
+                  "left": 0,
+                  "top": 48
+                },
+                "children": [],
+                "animation": []
+              }
+            ],
+            "animation": []
+          },
+          {
+            "name": "wrapper",
+            "props": {
+              "width": "393",
+              "height": "170",
+              "top": 80,
+              "left": 807,
+              "transform": "both"
+            },
+            "children": [
+              {
+                "name": "text",
+                "props": {
+                  "text": "浙江省岱山交投客运服务有限公司",
+                  "width": 386,
+                  "color": "#000000",
+                  "fontSize": "28",
+                  "fontWeight": "400",
+                  "lineHeight": "35",
+                  "padding": "10/20",
+                  "align": [],
+                  "left": 0,
+                  "top": 0
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "text",
+                "props": {
+                  "text": "提供岱山县内旅客水上出行服务，下属8个客运码头，提供客运船舶代理与客货运输代理服务。",
+                  "width": "380",
+                  "fontSize": 14,
+                  "fontWeight": "400",
+                  "lineHeight": "28",
+                  "padding": "10/20",
+                  "align": [],
+                  "left": 0,
+                  "top": 81
+                },
+                "children": [],
+                "animation": []
+              }
+            ],
+            "animation": []
+          },
+          {
+            "name": "wrapper",
+            "props": {
+              "width": "393",
+              "height": 170,
+              "top": 263,
+              "left": 807,
+              "transform": "both"
+            },
+            "children": [
+              {
+                "name": "text",
+                "props": {
+                  "text": "象山县汽车轮渡有限公司",
+                  "width": 388,
+                  "color": "#000000",
+                  "fontSize": "28",
+                  "fontWeight": "400",
+                  "lineHeight": "35",
+                  "padding": "10/20",
+                  "align": [],
+                  "left": 0,
+                  "top": 0
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "text",
+                "props": {
+                  "text": "隶属于县港航局、县国资局，主要经营象山县内河客滚船运输。",
+                  "width": "380",
+                  "fontSize": 14,
+                  "fontWeight": "400",
+                  "lineHeight": "28",
+                  "padding": "10/20",
+                  "align": [],
+                  "left": 0,
+                  "top": 49
+                },
+                "children": [],
+                "animation": []
+              }
+            ],
+            "animation": []
+          }
+        ],
+        "animation": []
+      }
+    ],
+    "animation": []
+  }
+]

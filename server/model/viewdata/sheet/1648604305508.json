@@ -1,0 +1,782 @@
+[{
+  "name": "scroller",
+  "props": {
+    "height": "4420",
+    "left": 0,
+    "top": 69,
+    "backgroundColor": "rgba(255, 255, 255, 1)"
+  },
+  "children": [{
+      "name": "wrapper",
+      "props": {
+        "backgroundImage": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/22920406.jpg",
+        "coverMode": "horizontal",
+        "moveMode": "vertical",
+        "left": -112,
+        "top": 0,
+        "width": 1423,
+        "height": "400",
+        "coveredWidth": true
+      },
+      "children": [],
+      "animation": []
+    },
+    {
+      "name": "wrapper",
+      "props": {
+        "coverMode": "horizontal",
+        "moveMode": "vertical",
+        "left": 0,
+        "top": 401,
+        "width": "1200",
+        "height": "140",
+        "transform": "vertical"
+      },
+      "children": [{
+          "name": "button",
+          "props": {
+            "text": "个人用户",
+            "themeColor": "#409EFF",
+            "border": "0",
+            "borderRadius": "0",
+            "color": "#303133",
+            "fontSize": "20",
+            "fontWeight": "400",
+            "lineHeight": "20",
+            "width": "400",
+            "height": "60",
+            "top": 40,
+            "left": 0,
+            "align": []
+          },
+          "children": [],
+          "animation": []
+        },
+        {
+          "name": "button",
+          "props": {
+            "text": "企业用户",
+            "themeColor": "#409EFF",
+            "border": "0",
+            "borderRadius": "0",
+            "color": "#303133",
+            "fontSize": "20",
+            "fontWeight": "400",
+            "lineHeight": "20",
+            "width": "400",
+            "height": "60",
+            "top": 40,
+            "left": 400,
+            "align": []
+          },
+          "children": [],
+          "animation": []
+        },
+        {
+          "name": "button",
+          "props": {
+            "text": "政府或事业单位",
+            "themeColor": "#409EFF",
+            "border": "0",
+            "borderRadius": "0",
+            "color": "#303133",
+            "fontSize": "20",
+            "fontWeight": "400",
+            "lineHeight": "20",
+            "width": "400",
+            "height": "60",
+            "top": 40,
+            "left": 800,
+            "align": []
+          },
+          "children": [],
+          "animation": []
+        }
+      ],
+      "animation": []
+    },
+    {
+      "name": "text",
+      "props": {
+        "text": "智慧场站建设",
+        "width": 442,
+        "fontSize": "42",
+        "fontWeight": "600",
+        "lineHeight": "42",
+        "textAlign": "center",
+        "padding": "10/20",
+        "left": 379,
+        "top": 555,
+        "color": "#0084FF",
+        "align": [
+          "horizontal"
+        ]
+      },
+      "children": [],
+      "animation": []
+    },
+    {
+      "name": "wrapper",
+      "props": {
+        "backgroundColor": "rgba(255, 255, 255, 1)",
+        "coverMode": "horizontal",
+        "moveMode": "vertical",
+        "left": 0,
+        "top": 640,
+        "width": 1200,
+        "height": 647,
+        "transform": "vertical"
+      },
+      "children": [{
+          "name": "text",
+          "props": {
+            "text": "实名制检票系统",
+            "width": 398,
+            "fontSize": "38",
+            "fontWeight": "400",
+            "lineHeight": "1.75",
+            "padding": "10/20",
+            "left": 653,
+            "top": 351,
+            "align": []
+          },
+          "children": [],
+          "animation": []
+        },
+        {
+          "name": "text",
+          "props": {
+            "text": "联网售票系统",
+            "width": 320,
+            "fontSize": "38",
+            "fontWeight": "400",
+            "lineHeight": "1.75",
+            "padding": "10/20",
+            "left": 0,
+            "top": 355,
+            "align": [],
+            "height": null
+          },
+          "children": [],
+          "animation": []
+        },
+        {
+          "name": "text",
+          "props": {
+            "text": "满足行业规定“票证人”三合一核验实名制检票，旅客通过闸机检票进站时对人脸、身份证件、车票信息进行检查，确保检票时人脸信息、身份证件信息与售票时的身份证件信息一致。系统支持身份证检票、车票检票、电子客票检票等。提供部级认证电子客票、电子发票解决方案。采用一体式检票闸机，有效降低人力成本，降低出行高峰期检票乘客滞留时间，提供客流中转效率，最快能达到3秒/人。",
+            "width": 545,
+            "fontSize": "16",
+            "fontWeight": "400",
+            "lineHeight": "1.75",
+            "padding": "10/20",
+            "left": 655,
+            "top": 439,
+            "align": [],
+            "height": null
+          },
+          "children": [],
+          "animation": []
+        },
+        {
+          "name": "text",
+          "props": {
+            "text": "联网售票系统是“道路交通+互联网”的最直接体现。车站接入联网售票系统后，用户可以随时随地通过小程序、手机网页端、APP移动端、微信公众号、城市服务、自助售取票终端及OTA平台等，实时查询班次、时间、票价、余票等常用信息，完成实名制在线购票、取票、退票。并通过纸质车票、电子客票、刷脸进站。",
+            "width": 545,
+            "fontSize": "16",
+            "fontWeight": "400",
+            "lineHeight": "1.75",
+            "padding": "10/20",
+            "left": 0,
+            "top": 440,
+            "align": [],
+            "height": null
+          },
+          "children": [],
+          "animation": []
+        },
+        {
+          "name": "image",
+          "props": {
+            "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/18464336.png",
+            "objectFit": "fill",
+            "fullmode": "fill",
+            "width": "548",
+            "height": "350",
+            "top": 0,
+            "left": 0,
+            "align": []
+          },
+          "children": [],
+          "animation": []
+        },
+        {
+          "name": "image",
+          "props": {
+            "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/20259532.jpg",
+            "objectFit": "contain",
+            "width": "548",
+            "height": "350",
+            "top": 0,
+            "left": 652,
+            "align": []
+          },
+          "children": [],
+          "animation": []
+        }
+      ],
+      "animation": []
+    },
+    {
+      "name": "wrapper",
+      "props": {
+        "backgroundColor": "rgba(255, 255, 255, 1)",
+        "coverMode": "horizontal",
+        "moveMode": "vertical",
+        "left": 0,
+        "top": 1300,
+        "width": 1200,
+        "height": 674,
+        "transform": "vertical"
+      },
+      "children": [{
+          "name": "text",
+          "props": {
+            "text": "驾驶员自助服务系统",
+            "width": 398,
+            "fontSize": "38",
+            "fontWeight": "400",
+            "lineHeight": "1.75",
+            "padding": "10/20",
+            "left": 653,
+            "top": 351,
+            "align": []
+          },
+          "children": [],
+          "animation": []
+        },
+        {
+          "name": "text",
+          "props": {
+            "text": "手持移动例检软件",
+            "width": 374,
+            "fontSize": "38",
+            "fontWeight": "400",
+            "lineHeight": "1.75",
+            "padding": "10/20",
+            "left": 0,
+            "top": 352,
+            "align": [],
+            "textAlign": "left"
+          },
+          "children": [],
+          "animation": []
+        },
+        {
+          "name": "text",
+          "props": {
+            "text": "实现驾驶员自助证照检查、自助查询班次信息、自助打印结算路单等，同时为了满足行业主管部门检查，所有验证、签字均以报表方式自动打印成相应的书面纸质材料，降低了检票口和安检工作人员的工作强度，避免了人为因素造成的相关风险，同时提高了车辆运行效率。驾驶员自助服务系统的设备主要包括驾驶员自助报班机和自助打单机。",
+            "width": 545,
+            "fontSize": "16",
+            "fontWeight": "400",
+            "lineHeight": "1.75",
+            "padding": "10/20",
+            "left": 655,
+            "top": 438,
+            "align": [],
+            "height": null
+          },
+          "children": [],
+          "animation": []
+        },
+        {
+          "name": "text",
+          "props": {
+            "text": "满足行业相关规定，实现安全闭环管理，落实责任主体。手持移动例检终端分设主检、副检，提供对检信息共享，支持语音播报。客运站工作人员通过移动手持终端自动获取相应检查项，车辆检查完毕后提交页面自动生成电子报表存档，并支持打印检查报告书，安检不合格车辆自动打印安检报告或者通过APP推送消息，在系统中自动记录检查人姓名，这样更快速地核对车辆相关事项，减少车辆在例检台的滞留时间，同时减少工作人员劳动强度，降低工作人员的岗位人数。",
+            "width": 545,
+            "fontSize": "16",
+            "fontWeight": "400",
+            "lineHeight": "1.75",
+            "padding": "10/20",
+            "left": 0,
+            "top": 439,
+            "align": [],
+            "height": null
+          },
+          "children": [],
+          "animation": []
+        },
+        {
+          "name": "image",
+          "props": {
+            "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/18474204.jpg",
+            "objectFit": "fill",
+            "width": "548",
+            "height": "350",
+            "top": 0,
+            "left": 0,
+            "align": []
+          },
+          "children": [],
+          "animation": []
+        },
+        {
+          "name": "image",
+          "props": {
+            "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/20260067.jpg",
+            "objectFit": "contain",
+            "width": "548",
+            "height": "350",
+            "top": 0,
+            "left": 652,
+            "align": []
+          },
+          "children": [],
+          "animation": []
+        }
+      ],
+      "animation": []
+    },
+    {
+      "name": "wrapper",
+      "props": {
+        "backgroundColor": "rgba(255, 255, 255, 1)",
+        "coverMode": "horizontal",
+        "moveMode": "vertical",
+        "left": 0,
+        "top": 1990,
+        "width": 1200,
+        "height": 577,
+        "transform": "vertical"
+      },
+      "children": [{
+          "name": "text",
+          "props": {
+            "text": "RFID系统",
+            "width": 398,
+            "fontSize": "38",
+            "fontWeight": "400",
+            "lineHeight": "1.75",
+            "padding": "10/20",
+            "left": 664,
+            "top": 352,
+            "align": []
+          },
+          "children": [],
+          "animation": []
+        },
+        {
+          "name": "text",
+          "props": {
+            "text": "驾乘服务系统",
+            "width": 374,
+            "fontSize": "38",
+            "fontWeight": "400",
+            "lineHeight": "1.75",
+            "padding": "10/20",
+            "left": 0,
+            "top": 352,
+            "align": [],
+            "textAlign": "left"
+          },
+          "children": [],
+          "animation": []
+        },
+        {
+          "name": "text",
+          "props": {
+            "text": "车辆在进出站和发车站台上的识别与系统联动方式：RFID方案通过每个车辆粘贴识别芯片，车辆进入识别区，进行车辆信息识别。如在车辆安检时，车辆识别到后，推送给手持移动安检终端，在站台时识别到推送给驾乘服务终端。",
+            "width": 538,
+            "fontSize": "16",
+            "fontWeight": "400",
+            "lineHeight": "1.75",
+            "padding": "10/20",
+            "left": 662,
+            "top": 429,
+            "align": [],
+            "height": null,
+            "textAlign": "justify"
+          },
+          "children": [],
+          "animation": []
+        },
+        {
+          "name": "text",
+          "props": {
+            "text": "驾乘服务子系统用于引导乘客上车。乘客上车前可通过扫描身份证或车票进行上车检票操作，避免乘客上错车，同时系统支持驾驶员查看乘客上车情况以及确认路单信息，离开站台等操作。",
+            "width": 545,
+            "fontSize": "16",
+            "fontWeight": "400",
+            "lineHeight": "1.75",
+            "padding": "10/20",
+            "left": 0,
+            "top": 430,
+            "align": [],
+            "height": null
+          },
+          "children": [],
+          "animation": []
+        },
+        {
+          "name": "image",
+          "props": {
+            "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/20202505.jpg",
+            "objectFit": "fill",
+            "width": "548",
+            "height": "350",
+            "top": 0,
+            "left": 0,
+            "align": []
+          },
+          "children": [],
+          "animation": []
+        },
+        {
+          "name": "image",
+          "props": {
+            "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/16854675.jpg",
+            "objectFit": "contain",
+            "width": "548",
+            "height": "350",
+            "top": 0,
+            "left": 652,
+            "align": []
+          },
+          "children": [],
+          "animation": []
+        }
+      ],
+      "animation": []
+    },
+    {
+      "name": "wrapper",
+      "props": {
+        "backgroundColor": "rgba(255, 255, 255, 1)",
+        "coverMode": "horizontal",
+        "moveMode": "vertical",
+        "left": 0,
+        "top": 2589,
+        "width": 1200,
+        "height": 613,
+        "transform": "vertical"
+      },
+      "children": [{
+          "name": "text",
+          "props": {
+            "text": "小件快运管理系统",
+            "width": 398,
+            "fontSize": "38",
+            "fontWeight": "400",
+            "lineHeight": "1.75",
+            "padding": "10/20",
+            "left": 653,
+            "top": 348,
+            "align": []
+          },
+          "children": [],
+          "animation": []
+        },
+        {
+          "name": "text",
+          "props": {
+            "text": "手机出站稽查软件",
+            "width": 374,
+            "fontSize": "38",
+            "fontWeight": "400",
+            "lineHeight": "1.75",
+            "padding": "10/20",
+            "left": 0,
+            "top": 352,
+            "align": [],
+            "textAlign": "left"
+          },
+          "children": [],
+          "animation": []
+        },
+        {
+          "name": "text",
+          "props": {
+            "text": "“小件快运系统”作为客运站信息化建设中的一环，具有极其重要的重用。根据班次计划，快速完成业务受理，完成小件登记、数据录入/采集、数据上传、费率结算、报表统计等各项流程。系统支持可拓展的联运接口，打通不同城市、不同站之间的业务壁垒。对于客运站发展现代物流、实行多元化经营管理，提高客运站资源利用，提升客运",
+            "width": 545,
+            "fontSize": "16",
+            "fontWeight": "400",
+            "lineHeight": "1.75",
+            "padding": "10/20",
+            "left": 655,
+            "top": 433,
+            "align": [],
+            "height": null
+          },
+          "children": [],
+          "animation": []
+        },
+        {
+          "name": "text",
+          "props": {
+            "text": "工作人员通过移动终端扫描安检单条码，自动获取车辆应班班次、时间、核载人数、载客人数、实际载客数、驾驶员、乘务员等相关信息，并核对是否一致，否则不予出站。改变传统的人工检查，减少车辆在出站口的滞留时间，同时手持出站稽查终端可完成驾驶员甄别工作。",
+            "width": 545,
+            "fontSize": "16",
+            "fontWeight": "400",
+            "lineHeight": "1.75",
+            "padding": "10/20",
+            "left": 0,
+            "top": 436,
+            "align": [],
+            "height": null
+          },
+          "children": [],
+          "animation": []
+        },
+        {
+          "name": "image",
+          "props": {
+            "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/20259752.jpg",
+            "objectFit": "fill",
+            "width": "548",
+            "height": "350",
+            "top": 0,
+            "left": 0,
+            "align": []
+          },
+          "children": [],
+          "animation": []
+        },
+        {
+          "name": "image",
+          "props": {
+            "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/20270097.png",
+            "objectFit": "contain",
+            "width": "548",
+            "height": "350",
+            "top": 0,
+            "left": 652,
+            "align": []
+          },
+          "children": [],
+          "animation": []
+        }
+      ],
+      "animation": []
+    },
+    {
+      "name": "wrapper",
+      "props": {
+        "backgroundColor": "rgba(255, 255, 255, 1)",
+        "coverMode": "horizontal",
+        "moveMode": "vertical",
+        "left": 0,
+        "top": 3223,
+        "width": 1200,
+        "height": 613,
+        "transform": "vertical"
+      },
+      "children": [{
+          "name": "text",
+          "props": {
+            "text": "智能联动显示系统",
+            "width": 398,
+            "fontSize": "38",
+            "fontWeight": "400",
+            "lineHeight": "1.75",
+            "padding": "10/20",
+            "left": 653,
+            "top": 351,
+            "align": []
+          },
+          "children": [],
+          "animation": []
+        },
+        {
+          "name": "text",
+          "props": {
+            "text": "自助行包寄存",
+            "width": 374,
+            "fontSize": "38",
+            "fontWeight": "400",
+            "lineHeight": "1.75",
+            "padding": "10/20",
+            "left": 0,
+            "top": 352,
+            "align": [],
+            "textAlign": "left"
+          },
+          "children": [],
+          "animation": []
+        },
+        {
+          "name": "text",
+          "props": {
+            "text": "智能联动显示系统包括导乘大屏、站台引导屏、多媒体显示系统、导乘软件和RFID车辆感应系统。主要在客运站现有的基础系统上，与站务系统、LED条屏显示系统、以及公共广播系统联动，实现车辆进站智能感应播报、检票口自动开启检票引导功能，进一步优化车站服务，提升车站品牌形象。",
+            "width": 545,
+            "fontSize": "16",
+            "fontWeight": "400",
+            "lineHeight": "1.75",
+            "padding": "10/20",
+            "left": 655,
+            "top": 432,
+            "align": [],
+            "height": null
+          },
+          "children": [],
+          "animation": []
+        },
+        {
+          "name": "text",
+          "props": {
+            "text": "提供旅客及司乘人员存储个人物品使用，可根据物品大小选择柜体大小，可支持现金支付，提供接口对接支付宝和微信。",
+            "width": 545,
+            "fontSize": "16",
+            "fontWeight": "400",
+            "lineHeight": "1.75",
+            "padding": "10/20",
+            "left": 0,
+            "top": 436,
+            "align": [],
+            "height": null
+          },
+          "children": [],
+          "animation": []
+        },
+        {
+          "name": "image",
+          "props": {
+            "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/20270396.jpg",
+            "objectFit": "fill",
+            "width": "548",
+            "height": "350",
+            "top": 0,
+            "left": 0,
+            "align": []
+          },
+          "children": [],
+          "animation": []
+        },
+        {
+          "name": "image",
+          "props": {
+            "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/20270628.jpg",
+            "objectFit": "contain",
+            "width": "548",
+            "height": "350",
+            "top": 0,
+            "left": 652,
+            "align": []
+          },
+          "children": [],
+          "animation": []
+        }
+      ],
+      "animation": []
+    },
+    {
+      "name": "wrapper",
+      "props": {
+        "backgroundColor": "rgba(255, 255, 255, 1)",
+        "coverMode": "horizontal",
+        "moveMode": "vertical",
+        "left": 0,
+        "top": 3853,
+        "width": 1200,
+        "height": 554,
+        "transform": "vertical"
+      },
+      "children": [{
+          "name": "text",
+          "props": {
+            "text": "结算管理系统",
+            "width": 398,
+            "fontSize": "38",
+            "fontWeight": "400",
+            "lineHeight": "1.75",
+            "padding": "10/20",
+            "left": 680,
+            "top": 352,
+            "align": []
+          },
+          "children": [],
+          "animation": []
+        },
+        {
+          "name": "text",
+          "props": {
+            "text": "停车管理系统",
+            "width": "398",
+            "fontSize": "38",
+            "fontWeight": "400",
+            "lineHeight": "1.75",
+            "padding": "10/20",
+            "left": 0,
+            "top": 352,
+            "align": [],
+            "textAlign": "left"
+          },
+          "children": [],
+          "animation": []
+        },
+        {
+          "name": "text",
+          "props": {
+            "text": "精准高效的结算管理系统，结算规则按不同主体自定义，满足多种结算需求；互联网售票自动对账，差错自动提醒，分权限审核平账。多种形式的结算统计和自定义规则，并支持表格导出。",
+            "width": 521,
+            "fontSize": "16",
+            "fontWeight": "400",
+            "lineHeight": "1.75",
+            "padding": "10/20",
+            "left": 679,
+            "top": 435,
+            "align": [],
+            "height": null
+          },
+          "children": [],
+          "animation": []
+        },
+        {
+          "name": "text",
+          "props": {
+            "text": "为了加强出入客车的车辆管理和严格记录客车的出入时间，同时对超过规定时间的客车停车收费更加规范，拟建立客车出入车辆监测系统。",
+            "width": 545,
+            "fontSize": "16",
+            "fontWeight": "400",
+            "lineHeight": "1.75",
+            "padding": "10/20",
+            "left": 0,
+            "top": 438,
+            "align": [],
+            "height": null
+          },
+          "children": [],
+          "animation": []
+        },
+        {
+          "name": "image",
+          "props": {
+            "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/20263173.jpg",
+            "objectFit": "fill",
+            "width": "548",
+            "height": "350",
+            "top": 0,
+            "left": 0,
+            "align": []
+          },
+          "children": [],
+          "animation": []
+        },
+        {
+          "name": "image",
+          "props": {
+            "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/20269632.jpg",
+            "objectFit": "contain",
+            "width": "548",
+            "height": "350",
+            "top": 0,
+            "left": 652,
+            "align": []
+          },
+          "children": [],
+          "animation": []
+        }
+      ],
+      "animation": []
+    }
+  ],
+  "animation": []
+}]

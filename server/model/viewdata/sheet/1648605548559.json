@@ -1,0 +1,374 @@
+[
+  {
+    "name": "scroller",
+    "props": {
+      "height": "2500",
+      "left": 1,
+      "top": 69,
+      "backgroundColor": "rgba(255, 255, 255, 1)"
+    },
+    "children": [
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundImage": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/22920406.jpg",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 0,
+          "width": "1200",
+          "height": "400",
+          "coveredWidth": true
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": "400",
+          "width": "1200",
+          "height": "140"
+        },
+        "children": [
+          {
+            "name": "button",
+            "props": {
+              "text": "个人用户",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": 40,
+              "left": 0,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "button",
+            "props": {
+              "text": "企业用户",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": 40,
+              "left": 400,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "button",
+            "props": {
+              "text": "政府或事业单位",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": 40,
+              "left": 800,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "text",
+        "props": {
+          "text": "电子客票/发票",
+          "width": 442,
+          "fontSize": "42",
+          "fontWeight": "600",
+          "lineHeight": "42",
+          "textAlign": "center",
+          "padding": "10/20",
+          "left": 379,
+          "top": 553,
+          "color": "#0084FF",
+          "align": [
+            "horizontal"
+          ]
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 634,
+          "width": 1200,
+          "height": 452,
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "电子客票",
+              "width": 398,
+              "fontSize": "38",
+              "fontWeight": "400",
+              "lineHeight": 14,
+              "padding": "10/20",
+              "left": 51,
+              "top": 146,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "电子客票系统从根本上实现道路客运数据、应用和服务的统一，打破原有的数据与业务孤岛式管理的格局，实现乘车凭证和报销凭证的分离，旅客通过互联网售票平台订票后，无需取票，真正实现无纸化购票和无纸化乘车。",
+              "width": 526,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "1.75",
+              "padding": "10/20",
+              "left": 53,
+              "top": 192,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/20273258.jpg",
+              "objectFit": "contain",
+              "width": "548",
+              "height": "350",
+              "top": 48,
+              "left": 606,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 1553,
+          "width": 1200,
+          "height": 452,
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "电子客票系统运行流程",
+              "width": 431,
+              "fontSize": "38",
+              "fontWeight": "400",
+              "lineHeight": 14,
+              "padding": "10/20",
+              "left": 46,
+              "top": 170,
+              "align": [],
+              "height": null
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "乘客可采用互联网、自助售票终端、APP/小程序等多种购票方式，购票成功后获取电子客票二维码或电子客票纸质凭条，实现凭码自助过闸机检票通行。",
+              "width": 529,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "1.75",
+              "padding": "10/20",
+              "left": 49,
+              "top": 220,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/20273666.jpg",
+              "objectFit": "contain",
+              "width": "548",
+              "height": "350",
+              "top": 51,
+              "left": 601,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 2006,
+          "width": 1200,
+          "height": 467,
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "电子发票系统",
+              "width": 497,
+              "fontSize": "38",
+              "fontWeight": "400",
+              "lineHeight": 14,
+              "padding": "10/20",
+              "left": 614,
+              "top": 177,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "同步配套电子发票系统，开通电子发票功能，乘客可通过电子客票入口线上开具发票，也可通过电子客票凭条扫描开票，实现发票无纸化，使开票更便捷、更省时、更安全、更环保。",
+              "width": 538,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "1.75",
+              "padding": "10/20",
+              "left": 617,
+              "top": 224,
+              "align": [],
+              "height": null
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/20274118.jpg",
+              "objectFit": "contain",
+              "width": "548",
+              "height": "350",
+              "top": 62,
+              "left": 50,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 1087,
+          "width": 1200,
+          "height": 467,
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "电子客票系统技术规范",
+              "width": 497,
+              "fontSize": "38",
+              "fontWeight": "400",
+              "lineHeight": 14,
+              "padding": "10/20",
+              "left": 635,
+              "top": 160,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "2020年04月28日交通运输部发布《道路客运电子客票系统技术规范》，明确全国道路客运电子客票系统的设计、开发和使用按该规范执行。倍施特已完成电子客票系统部署，完全满足规范要求，顺利实现部省级电子客票对接。",
+              "width": 517,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "1.75",
+              "padding": "10/20",
+              "left": 636,
+              "top": 207,
+              "align": [],
+              "height": null
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/20273067.jpg",
+              "objectFit": "contain",
+              "width": "548",
+              "height": "350",
+              "top": 62,
+              "left": 50,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      }
+    ],
+    "animation": []
+  }
+]

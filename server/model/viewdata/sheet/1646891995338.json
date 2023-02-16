@@ -1,0 +1,32 @@
+[
+  {
+    "name": "container",
+    "props": {
+      "height": "",
+      "backgroundColor": "rgba(64, 158, 255, 1)",
+      "index": 0
+    },
+    "children": [
+      {
+        "name": "text",
+        "props": {
+          "height": "",
+          "padding": "100/0",
+          "margin": "200/100",
+          "backgroundColor": null,
+          "color": "#FFFFFF",
+          "fontSize": "42",
+          "fontWeight": 500,
+          "textAlign": "center"
+        },
+        "children": [],
+        "animation": [],
+        "domProps": {
+          "innerHTML": "Hello World"
+        }
+      }
+    ],
+    "animation": [],
+    "domProps": {}
+  }
+]

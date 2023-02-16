@@ -1,0 +1,6 @@
+exports.saveHandler = require('./save')
+exports.downloadHandler = require('./download')
+exports.queryHandler = require('./query')
+exports.detailHandler = require('./detail')
+exports.removeHandler = require('./remove')
+exports.copyHandler = require('./copy')

@@ -1,0 +1,384 @@
+[
+  {
+    "name": "scroller",
+    "props": {
+      "height": "2800",
+      "left": 18,
+      "top": 22
+    },
+    "children": [
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundImage": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/22918942.jpg",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 0,
+          "width": 1200,
+          "height": 399,
+          "coveredWidth": true
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 404,
+          "width": 1438,
+          "height": 100
+        },
+        "children": [
+          {
+            "name": "button",
+            "props": {
+              "text": "个人用户",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": "20",
+              "left": 0,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "button",
+            "props": {
+              "text": "企业用户",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": 20,
+              "left": 400,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "button",
+            "props": {
+              "text": "政府或事业单位",
+              "themeColor": "#409EFF",
+              "border": "0",
+              "borderRadius": "0",
+              "color": "#303133",
+              "fontSize": "20",
+              "fontWeight": "400",
+              "lineHeight": "20",
+              "width": "400",
+              "height": "60",
+              "top": 20,
+              "left": 800,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "text",
+        "props": {
+          "text": "定制包车",
+          "width": 442,
+          "fontSize": "42",
+          "fontWeight": "600",
+          "lineHeight": "42",
+          "textAlign": "center",
+          "padding": "10/20",
+          "left": 379,
+          "top": 526,
+          "align": [
+            "horizontal"
+          ],
+          "color": "#0084FF"
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 610,
+          "width": 1200,
+          "height": 492,
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "正规车辆、手续齐全",
+              "width": 408,
+              "fontSize": "38",
+              "fontWeight": "400",
+              "lineHeight": 14,
+              "padding": "10/20",
+              "left": 62,
+              "top": 172,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "倍施特与各大运输集团合作推出包车服务，团队专业、管理统一、正规车辆、定期安检、证件齐全。所有车辆按照国家标准购买保险，包车司机拥有多年驾龄，具备从业资格证书，技术娴熟，为乘客的出行保价护航。",
+              "width": 483,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 66,
+              "top": 227,
+              "align": [],
+              "textAlign": "justify"
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/19895590.png",
+              "objectFit": "contain",
+              "width": "600",
+              "height": "400",
+              "top": 47,
+              "left": 600,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 2225,
+          "width": "1200",
+          "height": 530,
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "强大系统能力，高效运营能力",
+              "width": 559,
+              "fontSize": "38",
+              "fontWeight": "400",
+              "lineHeight": 14,
+              "padding": "10/20",
+              "left": 43,
+              "top": 92,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "为满足不同供应商需求，包车平台可实现独立部署小程序，借助当地运企名牌力量，打造属于本地的包车服务品牌，同时团子出行、OTA平台支持数据无缝对接，实现市域、省域、全国用户多维度覆盖。",
+              "width": 521,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 44,
+              "top": 142
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "● 系统能力：包车系统支持统一运调规则，包含免费取消，手续费取消，运调时间等，可实现统一管理。",
+              "width": 521,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 47,
+              "top": 253
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "● 运营能力：供应商可根据实际营运能力，通过统一管理后台，设置车辆库存、车型价格等信息，为前端用户提供信息展示、下单等服务。",
+              "width": 521,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 48,
+              "top": 331,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/19895183.png",
+              "objectFit": "fill",
+              "width": "600",
+              "height": "400",
+              "top": 68,
+              "left": 600,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 1103,
+          "width": "1200",
+          "height": 511,
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "多种包车方式，费用透明",
+              "width": 472,
+              "fontSize": "38",
+              "fontWeight": "400",
+              "lineHeight": 14,
+              "padding": "10/20",
+              "left": 646,
+              "top": 152,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "定制包车为客户提供带司机包车服务，客户根据自己的出行人数、行程安排，合理选择不同包车方式，按天计费，费用透明。\n\n目前支持“按天包车”、“经典线路”两种包车方式，其中“按天包车”有“8小时100公里”、“8小时200公里”、“4小时50公里”、“4小时100公里”四种套餐方式可供旅客选择。“经典线路”包车方式现已覆盖12条经典旅游线路。",
+              "width": 501,
+              "fontSize": "16",
+              "fontWeight": "400",
+              "lineHeight": "32",
+              "padding": "10/20",
+              "left": 648,
+              "top": 200,
+              "align": [],
+              "textAlign": "justify"
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/19895728.png",
+              "objectFit": "contain",
+              "width": "600",
+              "height": "400",
+              "top": 53,
+              "left": 0,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundColor": "rgba(255, 255, 255, 1)",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 1615,
+          "width": 1200,
+          "height": 609,
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/29341892.jpg",
+              "objectFit": "contain",
+              "width": "473",
+              "height": "526",
+              "top": 38,
+              "left": 90,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/29341893.jpg",
+              "objectFit": "contain",
+              "width": "486",
+              "height": "543",
+              "top": 25,
+              "left": 620,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      }
+    ],
+    "animation": []
+  }
+]

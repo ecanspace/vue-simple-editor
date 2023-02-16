@@ -1,0 +1,40 @@
+[
+  {
+    "name": "scroller",
+    "props": {
+      "height": "10000",
+      "left": null,
+      "top": null
+    },
+    "children": [
+      {
+        "name": "wrapper",
+        "props": {
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 0,
+          "width": 1421,
+          "height": 532
+        },
+        "children": [
+          {
+            "name": "image",
+            "props": {
+              "src": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/20202505.jpg",
+              "objectFit": "contain",
+              "width": "360",
+              "height": "240",
+              "top": 32,
+              "left": 48
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      }
+    ],
+    "animation": []
+  }
+]

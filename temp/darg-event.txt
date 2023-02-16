@@ -1,0 +1,42 @@
+isTrusted: true
+altKey: false
+bubbles: true
+button: 0
+buttons: 1
+cancelBubble: false
+cancelable: true
+clientX: 68
+clientY: 113
+composed: true
+ctrlKey: false
+currentTarget: null
+dataTransfer: DataTransfer {dropEffect: 'none', effectAllowed: 'uninitialized', items: DataTransferItemList, types: Array(0), files: FileList}
+defaultPrevented: false
+detail: 0
+eventPhase: 0
+fromElement: null
+layerX: 68
+layerY: 63
+metaKey: false
+movementX: 0
+movementY: 0
+offsetX: 56
+offsetY: 19
+pageX: 68
+pageY: 113
+path: (11) [div.item.px-4.py-2.mb-3.text-sm.bg-blue-100.rounded, div.p-3, aside.el-aside, section.el-container, section.el-container.h-full.is-vertical, div#__layout, div#__nuxt, body, html, document, Window]
+relatedTarget: null
+returnValue: true
+screenX: -1852
+screenY: 219
+shiftKey: false
+sourceCapabilities: InputDeviceCapabilities {firesTouchEvents: false}
+srcElement: div.item.px-4.py-2.mb-3.text-sm.bg-blue-100.rounded
+target: div.item.px-4.py-2.mb-3.text-sm.bg-blue-100.rounded
+timeStamp: 4291.30000000447
+toElement: div.item.px-4.py-2.mb-3.text-sm.bg-blue-100.rounded
+type: "dragstart"
+view: Window {window: Window, self: Window, document: document, name: '', location: Location, …}
+which: 1
+x: 68
+y: 113

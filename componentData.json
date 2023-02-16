@@ -1,0 +1,24 @@
+[
+  {
+    "name": "scroll",
+    "props": {
+      "width": "100px",
+      "height": "100px"
+    },
+    "children": [
+      {
+        "name": "scroll-item",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "header",
+    "children": [
+      {
+        "name": "menu",
+        "children": []
+      }
+    ]
+  }
+]

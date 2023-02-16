@@ -1,0 +1,892 @@
+[
+  {
+    "name": "scroller",
+    "props": {
+      "height": "1900",
+      "left": 0,
+      "top": 2
+    },
+    "children": [
+      {
+        "name": "wrapper",
+        "props": {
+          "backgroundImage": "https://nwzimg.wezhan.cn/contents/sitefiles2040/10204449/images/25485735.jpg",
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 0,
+          "width": 1200,
+          "height": "300",
+          "coveredWidth": true
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 1051,
+          "width": "1200",
+          "height": 344,
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "wrapper",
+            "props": {
+              "backgroundColor": "rgba(219, 236, 251, 1)",
+              "coverMode": "horizontal",
+              "moveMode": "both",
+              "left": 0,
+              "top": 0,
+              "width": 1200,
+              "height": 344,
+              "transform": "lock"
+            },
+            "children": [
+              {
+                "name": "text",
+                "props": {
+                  "text": "“团子未来星”管理培训生",
+                  "width": 338,
+                  "fontSize": "24",
+                  "fontWeight": "400",
+                  "lineHeight": "24",
+                  "textAlign": "center",
+                  "padding": "10/20",
+                  "left": 431,
+                  "top": 15,
+                  "align": [
+                    "horizontal"
+                  ]
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "text",
+                "props": {
+                  "text": "新时代的“团子未来星”，是倍施特未来总团队“年轻化、专业化、知识化”的战略性人才储备项目，系统化的培训、时间、锻炼、培养成倍施特未来管理的重要力量，希望你：",
+                  "width": 837,
+                  "fontSize": 14,
+                  "fontWeight": "400",
+                  "lineHeight": "28",
+                  "padding": "10/20",
+                  "left": 182,
+                  "top": 60,
+                  "align": [
+                    "horizontal"
+                  ]
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "button",
+                "props": {
+                  "text": "申请该职位",
+                  "themeColor": "#409EFF",
+                  "fontSize": 14,
+                  "fontWeight": "400",
+                  "lineHeight": 14,
+                  "width": 130,
+                  "height": 40,
+                  "top": 252,
+                  "left": 535,
+                  "align": [
+                    "horizontal"
+                  ]
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "text",
+                "props": {
+                  "text": "1、有激情、敢挑战、好学上进；\n",
+                  "width": 836,
+                  "fontSize": 14,
+                  "fontWeight": "400",
+                  "lineHeight": 14,
+                  "padding": "10/20",
+                  "left": 182,
+                  "top": 134,
+                  "align": [
+                    "horizontal"
+                  ]
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "text",
+                "props": {
+                  "text": "2、乐分享、善沟通、机灵踏实；",
+                  "width": 838,
+                  "fontSize": 14,
+                  "fontWeight": "400",
+                  "lineHeight": 14,
+                  "padding": "10/20",
+                  "left": 181,
+                  "top": 162,
+                  "align": [
+                    "horizontal"
+                  ]
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "text",
+                "props": {
+                  "text": "3、2-3年成都总部学习成长后派驻贵州、浙江等地任职管理岗位。",
+                  "width": 839,
+                  "fontSize": 14,
+                  "fontWeight": "400",
+                  "lineHeight": 14,
+                  "padding": "10/20",
+                  "left": 181,
+                  "top": 193,
+                  "align": [
+                    "horizontal"
+                  ]
+                },
+                "children": [],
+                "animation": []
+              }
+            ],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "coverMode": "horizontal",
+          "moveMode": "vertical",
+          "left": 0,
+          "top": 1521,
+          "width": 1200,
+          "height": 271,
+          "transform": "both"
+        },
+        "children": [
+          {
+            "name": "wrapper",
+            "props": {
+              "backgroundColor": "rgba(219, 236, 251, 1)",
+              "coverMode": "horizontal",
+              "moveMode": "both",
+              "left": 0,
+              "top": 0,
+              "width": 1200,
+              "height": 271,
+              "transform": "vertical"
+            },
+            "children": [
+              {
+                "name": "text",
+                "props": {
+                  "text": "城市经理",
+                  "width": 200,
+                  "fontSize": "24",
+                  "fontWeight": "400",
+                  "lineHeight": "24",
+                  "textAlign": "center",
+                  "padding": "10/20",
+                  "left": 500,
+                  "top": 13,
+                  "align": [
+                    "horizontal"
+                  ]
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "text",
+                "props": {
+                  "text": "1、通过总部运营轮岗，快速熟悉业务链路，协助推动业务目标达成；\n\n2、一对一导师带领，协助运用管理，提升共同负责下去效率提升及任务目标达成。",
+                  "width": 655,
+                  "fontSize": 14,
+                  "fontWeight": "400",
+                  "lineHeight": "28",
+                  "padding": "10/20",
+                  "left": 273,
+                  "top": 74,
+                  "align": [
+                    "horizontal"
+                  ]
+                },
+                "children": [],
+                "animation": []
+              },
+              {
+                "name": "button",
+                "props": {
+                  "text": "申请该职位",
+                  "themeColor": "#409EFF",
+                  "fontSize": 14,
+                  "fontWeight": "400",
+                  "lineHeight": 14,
+                  "width": 130,
+                  "height": 40,
+                  "top": 190,
+                  "left": 535,
+                  "align": [
+                    "horizontal"
+                  ]
+                },
+                "children": [],
+                "animation": []
+              }
+            ],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "width": "220",
+          "height": 500,
+          "top": 429,
+          "left": 0,
+          "backgroundColor": "rgba(219, 236, 251, 1)",
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "Java工程师",
+              "width": 178,
+              "fontSize": "24",
+              "fontWeight": "400",
+              "lineHeight": "24",
+              "textAlign": "center",
+              "padding": "10/20",
+              "align": [
+                "horizontal"
+              ],
+              "left": 21,
+              "top": 29
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "1、Java基础知识扎实，熟悉SSM开发框架；",
+              "width": "220",
+              "fontSize": 14,
+              "fontWeight": "400",
+              "lineHeight": "28",
+              "padding": "10/20",
+              "align": [],
+              "left": 0,
+              "top": 82,
+              "height": null
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "2、至少熟悉一种数据库，包括但不限于Mysql、redis；",
+              "width": "220",
+              "fontSize": 14,
+              "fontWeight": "400",
+              "lineHeight": "28",
+              "padding": "10/20",
+              "left": 0,
+              "top": 151,
+              "height": null,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "3、项目经验可以加分。",
+              "width": "220",
+              "fontSize": 14,
+              "fontWeight": "400",
+              "lineHeight": "28",
+              "padding": "10/20",
+              "align": [],
+              "left": 0,
+              "top": 234,
+              "height": null
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "button",
+            "props": {
+              "text": "申请该职位",
+              "themeColor": "#409EFF",
+              "fontSize": 14,
+              "fontWeight": "400",
+              "lineHeight": 14,
+              "width": 130,
+              "height": 40,
+              "top": 442,
+              "left": 45,
+              "align": [
+                "horizontal"
+              ]
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "width": "220",
+          "height": "500",
+          "top": 429,
+          "left": "245",
+          "backgroundColor": "rgba(219, 236, 251, 1)",
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "前端工程师",
+              "width": 200,
+              "fontSize": "24",
+              "fontWeight": "400",
+              "lineHeight": "24",
+              "textAlign": "center",
+              "padding": "10/20",
+              "align": [
+                "horizontal"
+              ],
+              "left": 10,
+              "top": 23
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "1、能够运用部分框架及库开发简单的前端项目；",
+              "width": "220",
+              "fontSize": 14,
+              "fontWeight": "400",
+              "lineHeight": "28",
+              "padding": "10/20",
+              "align": [],
+              "left": 0,
+              "top": 81,
+              "height": null
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "2、具备一定的前端优化知识，以及良好的编码习惯；",
+              "width": "220",
+              "fontSize": 14,
+              "fontWeight": "400",
+              "lineHeight": "28",
+              "padding": "10/20",
+              "left": 0,
+              "top": 140,
+              "height": null
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "3、具备一定node知识、或其他后端语言（java）优先；",
+              "width": "220",
+              "fontSize": 14,
+              "fontWeight": "400",
+              "lineHeight": "28",
+              "padding": "10/20",
+              "align": [],
+              "left": 0,
+              "top": 210,
+              "height": null
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "4、接触过微信体系的前端（h5、小程序、微信、PC端）开发应用维护。",
+              "width": "220",
+              "fontSize": 14,
+              "fontWeight": "400",
+              "lineHeight": "28",
+              "padding": "10/20",
+              "align": [],
+              "left": 0,
+              "top": 300,
+              "height": null
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "button",
+            "props": {
+              "text": "申请该职位",
+              "themeColor": "#409EFF",
+              "fontSize": 14,
+              "fontWeight": "400",
+              "lineHeight": 14,
+              "width": 130,
+              "height": 40,
+              "top": 443,
+              "left": 45,
+              "align": [
+                "horizontal"
+              ]
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "width": "220",
+          "height": "500",
+          "top": 429,
+          "left": "490",
+          "backgroundColor": "rgba(219, 236, 251, 1)",
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "C#工程师",
+              "width": 200,
+              "fontSize": "24",
+              "fontWeight": "400",
+              "lineHeight": "24",
+              "textAlign": "center",
+              "padding": "10/20",
+              "align": [
+                "horizontal"
+              ],
+              "left": 10,
+              "top": 26
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "1、熟悉c#语言,基础扎实；",
+              "width": "220",
+              "fontSize": 14,
+              "fontWeight": "400",
+              "lineHeight": "28",
+              "padding": "10/20",
+              "left": 0,
+              "top": 82,
+              "height": null,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "2、良好的面向对象思想,了解委托,泛型,多线程,异步等内容；",
+              "width": "220",
+              "fontSize": 14,
+              "fontWeight": "400",
+              "lineHeight": "28",
+              "padding": "10/20",
+              "left": 0,
+              "top": 124,
+              "height": null
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "3、熟悉windows桌面开发,了解WPF,了解C/S开发模式。",
+              "width": "220",
+              "fontSize": 14,
+              "fontWeight": "400",
+              "lineHeight": "28",
+              "padding": "10/20",
+              "align": [],
+              "left": 0,
+              "top": 224,
+              "height": null
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "button",
+            "props": {
+              "text": "申请该职位",
+              "themeColor": "#409EFF",
+              "fontSize": 14,
+              "fontWeight": "400",
+              "lineHeight": 14,
+              "width": 130,
+              "height": 40,
+              "top": 443,
+              "left": 45,
+              "align": [
+                "horizontal"
+              ]
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "width": "220",
+          "height": "500",
+          "top": 429,
+          "left": "735",
+          "backgroundColor": "rgba(219, 236, 251, 1)",
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "IOS工程师",
+              "width": 200,
+              "fontSize": "24",
+              "fontWeight": "400",
+              "lineHeight": "24",
+              "textAlign": "center",
+              "padding": "10/20",
+              "align": [
+                "horizontal"
+              ],
+              "left": 10,
+              "top": 25
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "1、OC基础扎实，熟练使用xcode；",
+              "width": "220",
+              "fontSize": 14,
+              "fontWeight": "400",
+              "lineHeight": "28",
+              "padding": "10/20",
+              "left": 0,
+              "top": 77,
+              "height": null,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "2、了解熟悉常用的第三方库，如：AFNetworking、SDWebImage；",
+              "width": "220",
+              "fontSize": 14,
+              "fontWeight": "400",
+              "lineHeight": "28",
+              "padding": "10/20",
+              "left": 0,
+              "top": 139,
+              "height": null
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "3、有实战项目经验可以加分；",
+              "width": "220",
+              "fontSize": 14,
+              "fontWeight": "400",
+              "lineHeight": "28",
+              "padding": "10/20",
+              "align": [],
+              "left": 0,
+              "top": 239,
+              "height": null
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "4、善于沟通，思路清晰，热爱学习，有团队意识。",
+              "width": "220",
+              "fontSize": 14,
+              "fontWeight": "400",
+              "lineHeight": "28",
+              "padding": "10/20",
+              "align": [],
+              "left": 0,
+              "top": 314,
+              "height": null
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "button",
+            "props": {
+              "text": "申请该职位",
+              "themeColor": "#409EFF",
+              "fontSize": 14,
+              "fontWeight": "400",
+              "lineHeight": 14,
+              "width": 130,
+              "height": 40,
+              "top": 444,
+              "left": 45,
+              "align": [
+                "horizontal"
+              ]
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "wrapper",
+        "props": {
+          "width": "220",
+          "height": "500",
+          "top": 429,
+          "left": "980",
+          "backgroundColor": "rgba(219, 236, 251, 1)",
+          "transform": "vertical"
+        },
+        "children": [
+          {
+            "name": "text",
+            "props": {
+              "text": "大数据工程师",
+              "width": 200,
+              "fontSize": "24",
+              "fontWeight": "400",
+              "lineHeight": "24",
+              "textAlign": "center",
+              "padding": "10/20",
+              "align": [
+                "horizontal"
+              ],
+              "left": 10,
+              "top": 16
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "1、熟悉常用的数据库，如:mysql、SQL server、oracle,有较强的sql或类sql开发能力；",
+              "width": "220",
+              "fontSize": 14,
+              "fontWeight": "400",
+              "lineHeight": "28",
+              "padding": "10/20",
+              "left": 0,
+              "top": 60,
+              "height": null,
+              "align": []
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "2、shell、java、python、scala等至少熟悉一种；",
+              "width": "220",
+              "fontSize": 14,
+              "fontWeight": "400",
+              "lineHeight": "28",
+              "padding": "10/20",
+              "left": 0,
+              "top": 175,
+              "height": null
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "3、了解大数据生态及理论；",
+              "width": "220",
+              "fontSize": 14,
+              "fontWeight": "400",
+              "lineHeight": "28",
+              "padding": "10/20",
+              "align": [],
+              "left": 0,
+              "top": 237,
+              "height": null
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "4、热爱学习、喜欢钻研、工作认真。",
+              "width": "220",
+              "fontSize": 14,
+              "fontWeight": "400",
+              "lineHeight": "28",
+              "padding": "10/20",
+              "align": [],
+              "left": 0,
+              "top": 277,
+              "height": null
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "text",
+            "props": {
+              "text": "加分项：有hadoop、hive、spark、flink等大数据技术使用经验。",
+              "width": "220",
+              "fontSize": 14,
+              "fontWeight": "400",
+              "lineHeight": "28",
+              "padding": "10/20",
+              "align": [],
+              "left": 0,
+              "top": 337,
+              "height": null
+            },
+            "children": [],
+            "animation": []
+          },
+          {
+            "name": "button",
+            "props": {
+              "text": "申请该职位",
+              "themeColor": "#409EFF",
+              "fontSize": 14,
+              "fontWeight": "400",
+              "lineHeight": 14,
+              "width": 130,
+              "height": 40,
+              "top": 444,
+              "left": 45,
+              "align": [
+                "horizontal"
+              ]
+            },
+            "children": [],
+            "animation": []
+          }
+        ],
+        "animation": []
+      },
+      {
+        "name": "text",
+        "props": {
+          "text": "研发类",
+          "width": 200,
+          "fontSize": "36",
+          "fontWeight": "600",
+          "lineHeight": "36",
+          "padding": "10/20",
+          "align": [
+            "horizontal"
+          ],
+          "left": 500,
+          "top": 339,
+          "textAlign": "center"
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "text",
+        "props": {
+          "text": "管理类",
+          "width": 200,
+          "fontSize": "36",
+          "fontWeight": "600",
+          "lineHeight": "36",
+          "padding": "10/20",
+          "align": [
+            "horizontal"
+          ],
+          "left": 500,
+          "top": 966,
+          "textAlign": "center"
+        },
+        "children": [],
+        "animation": []
+      },
+      {
+        "name": "text",
+        "props": {
+          "text": "销售类",
+          "width": 200,
+          "fontSize": "36",
+          "fontWeight": "600",
+          "lineHeight": "36",
+          "padding": "10/20",
+          "align": [
+            "horizontal"
+          ],
+          "left": 500,
+          "top": 1429,
+          "textAlign": "center"
+        },
+        "children": [],
+        "animation": []
+      }
+    ],
+    "animation": []
+  }
+]
