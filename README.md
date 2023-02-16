@@ -1,22 +1,8 @@
-# Smartable Editor
+# Vue Simple Editor
 
-源于公司官网需求而开发的简易版拖拽生成静态页面编辑器，当前版本定义为 `v1.0.0-aplha`
+源于公司官网需求而开发的简易版拖拽生成静态页面编辑器。
 
-## 快速上手
-
-项目内部  `Git` 仓库代号 `bst-official-editor`，基于 `Nuxt` 框架搭建，分为 `client` 和 `server` 端。前者提供功能服务，后者提供接口服务。
-
-代码仓库
-
-```bash
-# Clone with SSH
-$ git@git.tz.com:webfront/bst-official-editor.git
-
-# Clone with HTTP
-$ http://git.tz.com/webfront/bst-official-editor.git
-```
-
-项目启动
+## 项目启动
 
 ```bash
 # ----------- client side -----------
